@@ -1,9 +1,8 @@
-trojan://telegram-id-privatevpns@13.41.252.38:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trj.rollingnext.co.uk&type=tcp#🇬🇧|@PrivateVPNs|110.67
-trojan://telegram-id-privatevpns@54.77.23.6:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trj.rollingnext.co.uk&type=tcp#🇮🇪|@PrivateVPNs|100.03
-trojan://telegram-id-directvpn@16.171.220.126:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trj.rollingnext.co.uk&type=tcp#🇸🇪|@DirectVPN|135.3
-trojan://telegram-id-directvpn@3.65.137.173:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trj.rollingnext.co.uk&type=tcp#🇩🇪|@DirectVPN|124.9
-trojan://telegram-id-directvpn@52.57.20.148:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trj.rollingnext.co.uk&type=tcp#🇩🇪|@DirectVPN|123.27
-trojan://d8fd35e7-25f7-452d-852a-6ad1cfb3c9b8@104.16.67.38:443?alpn=http%2F1.1&host=ftp.pardazesh.tech&path=%2F1C1eEyrBbGr0r2HZ1tSkA&security=tls&sni=ftp.pardazesh.tech&type=ws#🚩|@v2ray_vpn_ir|14.32
-trojan://1d77bc32-ea1e-4c9d-8db2-440340d96f12@vpnpool.stablize.top:443?sni=ap.stablize.top#🚩|@yaney_01|180.99
-trojan://124a8baf-5335-43d4-b13f-c3fc03360458@vpnhat.stablize.top:443?sni=ap.stablize.top#🇯🇵|@yaney_01|197.79
-trojan://124a8baf-5335-43d4-b13f-c3fc03360458@vpnpool.stablize.top:443?sni=ap.stablize.top#🇯🇵|@yaney_01|417.57
+trojan://telegram-id-privatevpns@13.41.252.38:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trj.rollingnext.co.uk&type=tcp#🇬🇧|@PrivateVPNs|77.4
+trojan://telegram-id-privatevpns@52.49.72.57:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trj.rollingnext.co.uk&type=tcp#🇮🇪|@PrivateVPNs|68.04
+trojan://telegram-id-directvpn@3.65.137.173:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trj.rollingnext.co.uk&type=tcp#🇩🇪|@DirectVPN|95.19
+trojan://telegram-id-directvpn@52.57.20.148:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trj.rollingnext.co.uk&type=tcp#🇩🇪|@DirectVPN|94.48
+trojan://d8fd35e7-25f7-452d-852a-6ad1cfb3c9b8@104.16.67.38:443?alpn=http%2F1.1&host=ftp.pardazesh.tech&path=%2F1C1eEyrBbGr0r2HZ1tSkA&security=tls&sni=ftp.pardazesh.tech&type=ws#🚩|@v2ray_vpn_ir|1.65
+trojan://1d77bc32-ea1e-4c9d-8db2-440340d96f12@vpnpool.stablize.top:443?sni=ap.stablize.top#🇯🇵|@yaney_01|328.98
+trojan://124a8baf-5335-43d4-b13f-c3fc03360458@vpnhat.stablize.top:443?sni=ap.stablize.top#🇯🇵|@yaney_01|202.56
+trojan://124a8baf-5335-43d4-b13f-c3fc03360458@vpnpool.stablize.top:443?sni=ap.stablize.top#🇸🇬|@yaney_01|217.21
