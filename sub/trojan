@@ -1,7 +1,9 @@
-trojan://telegram-id-privatevpns@15.237.80.240:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trj.rollingnext.co.uk&type=tcp#🇫🇷|@PrivateVPNs|83.19
-trojan://telegram-id-privatevpns@13.39.236.156:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trj.rollingnext.co.uk&type=tcp#🇫🇷|@PrivateVPNs|83.63
-trojan://telegram-id-privatevpns@3.10.160.54:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trj.rollingnext.co.uk&type=tcp#🇬🇧|@PrivateVPNs|77.66
-trojan://telegram-id-directvpn@54.170.184.42:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trj.rollingnext.co.uk&type=tcp#🇮🇪|@DirectVPN|88.42
-trojan://telegram-id-directvpn@18.221.186.112:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trj.rollingnext.co.uk&type=tcp#🇺🇸|@DirectVPN|13.4
-trojan://yZOZ8GWc8K@de1.vpncustomize.website:443?alpn=h2&host=de1.connecton.surf&path=%2F&security=tls&sni=de1.vpncustomize.website&type=http#🇩🇪|@v2ray_swhil|102.18
-trojan://yZOZ8GWc8K@de.vpncustomize.website:443?alpn=http%2F1.1&headerType=none&security=tls&sni=de.vpncustomize.website&type=tcp#🇩🇪|@v2ray_swhil|92.46
+trojan://telegram-id-privatevpns@13.39.236.156:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trj.rollingnext.co.uk&type=tcp#🇫🇷|@PrivateVPNs|151.13
+trojan://telegram-id-privatevpns@3.10.160.54:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trj.rollingnext.co.uk&type=tcp#🇬🇧|@PrivateVPNs|147.6
+trojan://telegram-id-privatevpns@3.10.250.34:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trj.rollingnext.co.uk&type=tcp#🇬🇧|@PrivateVPNs|146.24
+trojan://telegram-id-directvpn@18.221.186.112:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trj.rollingnext.co.uk&type=tcp#🇺🇸|@DirectVPN|69
+trojan://telegram-id-directvpn@13.51.94.151:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trj.rollingnext.co.uk&type=tcp#🇸🇪|@DirectVPN|174.87
+trojan://telegram-id-directvpn@16.171.124.150:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trj.rollingnext.co.uk&type=tcp#🇸🇪|@DirectVPN|173.51
+trojan://telegram-id-directvpn@100.26.24.250:22222?alpn=http%2F1.1&security=tls&sni=trj.rollingnext.co.uk&type=tcp#🇺🇸|@oneclickvpnkeys|75.25
+trojan://yZOZ8GWc8K@de1.vpncustomize.website:443?alpn=h2&host=de1.connecton.surf&path=%2F&security=tls&sni=de1.vpncustomize.website&type=http#🇩🇪|@v2ray_swhil|176.41
+trojan://yZOZ8GWc8K@de.vpncustomize.website:443?alpn=http%2F1.1&headerType=none&security=tls&sni=de.vpncustomize.website&type=tcp#🇩🇪|@v2ray_swhil|183.94
