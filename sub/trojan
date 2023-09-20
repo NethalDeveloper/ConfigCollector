@@ -1,8 +1,8 @@
-trojan://telegram-id-privatevpns@3.79.87.71:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trj.rollingnext.co.uk&type=tcp#🇩🇪|@PrivateVPNs|123.3
-trojan://telegram-id-privatevpns@18.194.74.127:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trj.rollingnext.co.uk&type=tcp#🇩🇪|@PrivateVPNs|125.79
-trojan://telegram-id-privatevpns@13.39.157.182:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trj.rollingnext.co.uk&type=tcp#🇫🇷|@PrivateVPNs|116.79
-trojan://telegram-id-directvpn@13.43.159.193:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trj.rollingnext.co.uk&type=tcp#🇬🇧|@DirectVPN|110.87
-trojan://telegram-id-directvpn@108.128.21.69:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trj.rollingnext.co.uk&type=tcp#🇮🇪|@DirectVPN|97.12
-trojan://telegram-id-directvpn@107.20.143.36:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trj.rollingnext.co.uk&type=tcp#🇺🇸|@DirectVPN|35.9
-trojan://yZOZ8GWc8K@de1.vpncustomize.website:443?alpn=h2&host=de1.connecton.surf&path=%2F&security=tls&sni=de1.vpncustomize.website&type=http#🇺🇸|@v2ray_swhil|9.65
-trojan://yZOZ8GWc8K@de.vpncustomize.website:443?alpn=http%2F1.1&headerType=none&security=tls&sni=de.vpncustomize.website&type=tcp#🇺🇸|@v2ray_swhil|10.18
+trojan://telegram-id-privatevpns@3.79.87.71:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trj.rollingnext.co.uk&type=tcp#🇩🇪|@PrivateVPNs|92.45
+trojan://telegram-id-privatevpns@18.194.74.127:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trj.rollingnext.co.uk&type=tcp#🇩🇪|@PrivateVPNs|93.08
+trojan://telegram-id-privatevpns@13.39.157.182:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trj.rollingnext.co.uk&type=tcp#🇫🇷|@PrivateVPNs|119.69
+trojan://telegram-id-directvpn@13.43.159.193:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trj.rollingnext.co.uk&type=tcp#🇬🇧|@DirectVPN|81.84
+trojan://telegram-id-directvpn@108.128.21.69:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trj.rollingnext.co.uk&type=tcp#🇮🇪|@DirectVPN|71
+trojan://yZOZ8GWc8K@de1.vpncustomize.website:443?alpn=h2&host=de1.connecton.surf&path=%2F&security=tls&sni=de1.vpncustomize.website&type=http#🇺🇸|@v2ray_swhil|5.72
+trojan://yZOZ8GWc8K@de.vpncustomize.website:443?alpn=http%2F1.1&headerType=none&security=tls&sni=de.vpncustomize.website&type=tcp#🚩|@v2ray_swhil|6.15
+trojan://join-CLICK_VPNN@661-Join-V2RayTz.SiNoTz.Tk:2085?headerType=http&host=jointel.CLICK_VPNN&security=none&type=tcp#🇹🇷|@V2RayTz|134.96
