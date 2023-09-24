@@ -1,9 +1,5 @@
-trojan://telegram-id-privatevpns@18.130.143.240:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trj.rollingnext.co.uk&type=tcp#🇬🇧|@PrivateVPNs|81.33
-trojan://telegram-id-privatevpns@52.17.136.74:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trj.rollingnext.co.uk&type=tcp#🇮🇪|@PrivateVPNs|70.67
-trojan://telegram-id-privatevpns@18.202.4.250:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trj.rollingnext.co.uk&type=tcp#🇮🇪|@PrivateVPNs|83.21
-trojan://telegram-id-directvpn@16.170.151.105:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trj.rollingnext.co.uk&type=tcp#🇸🇪|@DirectVPN|108.44
-trojan://telegram-id-directvpn@18.159.185.210:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trj.rollingnext.co.uk&type=tcp#🇩🇪|@DirectVPN|92.87
-trojan://telegram-id-directvpn@3.79.69.78:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trj.rollingnext.co.uk&type=tcp#🇩🇪|@DirectVPN|91.91
-trojan://89ce124f-42d1-4c90-b9d2-bde2861ae615@163.123.192.80:443?security=tls&sni=4-193-163-88.nhost.00cdn.com&type=tcp#🇺🇸|@oneclickvpnkeys|65.78
-trojan://3c412170-5aaa-11ee-bc0d-1239d0255272@51.38.65.155:443?headerType=none&security=tls&sni=soft98.ir&type=tcp#🇮🇷|@ConfigsHUB|717.15
-trojan://33b50190-5a1f-11ee-96bb-1239d0255272@51.38.65.155:443?headerType=none&security=tls&sni=soft98.ir&type=tcp#🇮🇷|@ConfigsHUB|656.11
+trojan://telegram-id-privatevpns@18.130.143.240:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trj.rollingnext.co.uk&type=tcp#🇬🇧|@PrivateVPNs|146.47
+trojan://telegram-id-privatevpns@52.17.136.74:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trj.rollingnext.co.uk&type=tcp#🇮🇪|@PrivateVPNs|137.05
+trojan://telegram-id-privatevpns@18.202.4.250:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trj.rollingnext.co.uk&type=tcp#🇮🇪|@PrivateVPNs|133.18
+trojan://telegram-id-directvpn@18.159.185.210:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trj.rollingnext.co.uk&type=tcp#🇩🇪|@DirectVPN|158.94
+trojan://89ce124f-42d1-4c90-b9d2-bde2861ae615@163.123.192.80:443?security=tls&sni=4-193-163-88.nhost.00cdn.com&type=tcp#🇺🇸|@oneclickvpnkeys|18.4
