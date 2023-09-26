@@ -1,8 +1,7 @@
-trojan://telegram-id-privatevpns@34.243.78.241:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trj.rollingnext.co.uk&type=tcp#🇮🇪|@PrivateVPNs|136.45
-trojan://telegram-id-privatevpns@13.50.157.31:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trj.rollingnext.co.uk&type=tcp#🇸🇪|@PrivateVPNs|174.74
-trojan://telegram-id-privatevpns@16.170.102.174:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trj.rollingnext.co.uk&type=tcp#🇸🇪|@PrivateVPNs|174.31
-trojan://telegram-id-directvpn@52.28.102.104:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trj.rollingnext.co.uk&type=tcp#🇩🇪|@DirectVPN|159.07
-trojan://telegram-id-directvpn@13.49.120.61:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trj.rollingnext.co.uk&type=tcp#🇸🇪|@DirectVPN|173.84
-trojan://telegram-id-directvpn@16.16.19.151:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trj.rollingnext.co.uk&type=tcp#🇸🇪|@DirectVPN|174.57
-trojan://telegram-id-directvpn@13.59.219.114:22222?alpn=http%2F1.1&security=tls&sni=trj.rollingnext.co.uk&type=tcp#🇺🇸|@oneclickvpnkeys|69.27
-trojan://de5a47b3e2@198.244.252.93:443?headerType=none&security=tls&sni=uk1.connecton.surf&type=tcp#🇬🇧|@v2ray_swhil|147.4
+trojan://telegram-id-privatevpns@13.50.157.31:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trj.rollingnext.co.uk&type=tcp#🇸🇪|@PrivateVPNs|179.75
+trojan://telegram-id-privatevpns@16.170.102.174:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trj.rollingnext.co.uk&type=tcp#🇸🇪|@PrivateVPNs|174.32
+trojan://telegram-id-privatevpns@3.126.5.4:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trj.rollingnext.co.uk&type=tcp#🇩🇪|@PrivateVPNs|160.01
+trojan://telegram-id-directvpn@16.16.19.151:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trj.rollingnext.co.uk&type=tcp#🇸🇪|@DirectVPN|174.9
+trojan://telegram-id-directvpn@13.59.219.114:22222?alpn=http%2F1.1&security=tls&sni=trj.rollingnext.co.uk&type=tcp#🇺🇸|@oneclickvpnkeys|69.96
+trojan://de5a47b3e2@198.244.252.93:443?headerType=none&security=tls&sni=uk1.connecton.surf&type=tcp#🇬🇧|@v2ray_swhil|142.76
+trojan://telegram-id-directvpn@13.38.252.38:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trj.rollingnext.co.uk&type=tcp#🇫🇷|@ConfigsHUB|153.52
