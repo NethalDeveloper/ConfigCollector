@@ -1,7 +1,7 @@
-trojan://telegram-id-privatevpns@3.120.81.8:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trj.rollingnext.co.uk&type=tcp#🇩🇪|@PrivateVPNs|160.3
-trojan://telegram-id-privatevpns@35.180.248.197:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trj.rollingnext.co.uk&type=tcp#🇫🇷|@PrivateVPNs|150.47
-trojan://telegram-id-privatevpns@18.169.55.212:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trj.rollingnext.co.uk&type=tcp#🇬🇧|@PrivateVPNs|148.11
-trojan://telegram-id-directvpn@18.169.125.137:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trj.rollingnext.co.uk&type=tcp#🇬🇧|@DirectVPN|146.57
-trojan://telegram-id-directvpn@52.17.146.65:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trj.rollingnext.co.uk&type=tcp#🇮🇪|@DirectVPN|136.96
-trojan://telegram-id-directvpn@44.231.29.152:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trj.rollingnext.co.uk&type=tcp#🇺🇸|@DirectVPN|21.27
-trojan://de5a47b3e2@198.244.252.93:443?headerType=none&security=tls&sni=uk1.connecton.surf&type=tcp#🇬🇧|@v2ray1_ng|144.09
+trojan://telegram-id-privatevpns@18.169.55.212:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trj.rollingnext.co.uk&type=tcp#🇬🇧|@PrivateVPNs|85.77
+trojan://telegram-id-privatevpns@16.16.228.197:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trj.rollingnext.co.uk&type=tcp#🇸🇪|@PrivateVPNs|160.44
+trojan://telegram-id-privatevpns@18.200.223.142:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trj.rollingnext.co.uk&type=tcp#🇮🇪|@PrivateVPNs|73.02
+trojan://telegram-id-directvpn@52.17.146.65:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trj.rollingnext.co.uk&type=tcp#🇮🇪|@DirectVPN|71.6
+trojan://telegram-id-directvpn@44.231.29.152:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trj.rollingnext.co.uk&type=tcp#🇺🇸|@DirectVPN|84.72
+trojan://telegram-id-directvpn@3.12.75.7:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trj.rollingnext.co.uk&type=tcp#🇺🇸|@DirectVPN|15.96
+trojan://de5a47b3e2@198.244.252.93:443?headerType=none&security=tls&sni=uk1.connecton.surf&type=tcp#🇬🇧|@v2ray1_ng|83.39
