@@ -1,7 +1,7 @@
-trojan://telegram-id-privatevpns@16.16.228.197:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trj.rollingnext.co.uk&type=tcp#🇸🇪|@PrivateVPNs|146.23
-trojan://telegram-id-privatevpns@18.200.223.142:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trj.rollingnext.co.uk&type=tcp#🇮🇪|@PrivateVPNs|107.91
-trojan://telegram-id-privatevpns@35.158.24.130:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trj.rollingnext.co.uk&type=tcp#🇩🇪|@PrivateVPNs|118.08
-trojan://telegram-id-directvpn@3.12.75.7:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trj.rollingnext.co.uk&type=tcp#🇺🇸|@DirectVPN|35.8
-trojan://telegram-id-directvpn@13.49.20.33:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trj.rollingnext.co.uk&type=tcp#🇸🇪|@DirectVPN|139.18
-trojan://telegram-id-directvpn@16.171.92.31:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trj.rollingnext.co.uk&type=tcp#🇸🇪|@DirectVPN|139.28
-trojan://de5a47b3e2@198.244.252.93:443?headerType=none&security=tls&sni=uk1.connecton.surf&type=tcp#🇬🇧|@v2ray1_ng|109.9
+trojan://telegram-id-privatevpns@35.158.24.130:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trj.rollingnext.co.uk&type=tcp#🇩🇪|@PrivateVPNs|159.32
+trojan://telegram-id-privatevpns@13.38.156.254:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trj.rollingnext.co.uk&type=tcp#🇫🇷|@PrivateVPNs|137.62
+trojan://telegram-id-privatevpns@18.133.145.225:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trj.rollingnext.co.uk&type=tcp#🇬🇧|@PrivateVPNs|134.36
+trojan://telegram-id-directvpn@16.171.92.31:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trj.rollingnext.co.uk&type=tcp#🇸🇪|@DirectVPN|157.34
+trojan://telegram-id-directvpn@3.70.139.219:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trj.rollingnext.co.uk&type=tcp#🇩🇪|@DirectVPN|140.97
+trojan://telegram-id-directvpn@18.196.144.232:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trj.rollingnext.co.uk&type=tcp#🇩🇪|@DirectVPN|143.55
+trojan://de5a47b3e2@198.244.252.93:443?headerType=none&security=tls&sni=uk1.connecton.surf&type=tcp#🇬🇧|@v2ray1_ng|143.02
