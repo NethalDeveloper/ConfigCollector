@@ -1,7 +1,7 @@
-trojan://telegram-id-privatevpns@52.16.173.194:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trj.rollingnext.co.uk&type=tcp#🇮🇪|@PrivateVPNs|114.48
-trojan://telegram-id-privatevpns@3.69.6.120:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trj.rollingnext.co.uk&type=tcp#🇩🇪|@PrivateVPNs|138.24
-trojan://telegram-id-privatevpns@18.134.26.79:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trj.rollingnext.co.uk&type=tcp#🇬🇧|@PrivateVPNs|129.19
-trojan://telegram-id-directvpn@13.48.37.184:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trj.rollingnext.co.uk&type=tcp#🇸🇪|@DirectVPN|206.76
-trojan://telegram-id-directvpn@3.77.248.164:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trj.rollingnext.co.uk&type=tcp#🇩🇪|@DirectVPN|147.07
-trojan://telegram-id-directvpn@18.196.86.202:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trj.rollingnext.co.uk&type=tcp#🇩🇪|@DirectVPN|136.49
-trojan://telegram-id-directvpn@13.48.87.145:22222?headerType=none&security=tls&sni=trj.rollingnext.co.uk&type=tcp#🇸🇪|@VmessProtocol|201.63
+trojan://telegram-id-privatevpns@52.16.173.194:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trj.rollingnext.co.uk&type=tcp#🇮🇪|@PrivateVPNs|70.71
+trojan://telegram-id-privatevpns@3.69.6.120:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trj.rollingnext.co.uk&type=tcp#🇩🇪|@PrivateVPNs|90.03
+trojan://telegram-id-privatevpns@18.134.26.79:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trj.rollingnext.co.uk&type=tcp#🇬🇧|@PrivateVPNs|81.93
+trojan://telegram-id-directvpn@13.48.37.184:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trj.rollingnext.co.uk&type=tcp#🇸🇪|@DirectVPN|116.07
+trojan://telegram-id-directvpn@3.77.248.164:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trj.rollingnext.co.uk&type=tcp#🇩🇪|@DirectVPN|111.88
+trojan://telegram-id-directvpn@18.196.86.202:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trj.rollingnext.co.uk&type=tcp#🇩🇪|@DirectVPN|105.49
+trojan://telegram-id-directvpn@13.48.87.145:22222?headerType=none&security=tls&sni=trj.rollingnext.co.uk&type=tcp#🇸🇪|@VmessProtocol|161.42
