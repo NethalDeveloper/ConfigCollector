@@ -1,6 +1,8 @@
-trojan://telegram-id-privatevpns@99.81.155.248:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trj.rollingnext.co.uk&type=tcp#🇮🇪|@PrivateVPNs|67.3
-trojan://telegram-id-privatevpns@18.159.121.247:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trj.rollingnext.co.uk&type=tcp#🇩🇪|@PrivateVPNs|98.1
-trojan://telegram-id-privatevpns@18.168.233.41:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trj.rollingnext.co.uk&type=tcp#🇬🇧|@PrivateVPNs|81.32
-trojan://telegram-id-directvpn@3.125.71.228:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trj.rollingnext.co.uk&type=tcp#🇩🇪|@DirectVPN|87.82
-trojan://telegram-id-directvpn@3.122.122.88:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trj.rollingnext.co.uk&type=tcp#🇩🇪|@DirectVPN|87.78
-trojan://telegram-id-directvpn@13.50.210.147:22222?alpn=http%2F1.1&security=tls&sni=trj.rollingnext.co.uk&type=tcp#🇸🇪|@oneclickvpnkeys|105.32
+trojan://telegram-id-privatevpns@18.168.233.41:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trj.rollingnext.co.uk&type=tcp#🇬🇧|@PrivateVPNs|80.59
+trojan://telegram-id-privatevpns@16.16.226.226:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trj.rollingnext.co.uk&type=tcp#🇸🇪|@PrivateVPNs|168.59
+trojan://telegram-id-privatevpns@52.50.117.232:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trj.rollingnext.co.uk&type=tcp#🇮🇪|@PrivateVPNs|70.98
+trojan://telegram-id-directvpn@3.122.122.88:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trj.rollingnext.co.uk&type=tcp#🇩🇪|@DirectVPN|93.18
+trojan://telegram-id-directvpn@16.170.184.62:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trj.rollingnext.co.uk&type=tcp#🇸🇪|@DirectVPN|110.3
+trojan://telegram-id-directvpn@51.20.149.161:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trj.rollingnext.co.uk&type=tcp#🇸🇪|@DirectVPN|110.69
+trojan://telegram-id-directvpn@13.50.210.147:22222?alpn=http%2F1.1&security=tls&sni=trj.rollingnext.co.uk&type=tcp#🇸🇪|@oneclickvpnkeys|111.04
+trojan://telegram-id-directvpn@13.50.210.147:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trj.rollingnext.co.uk&type=tcp#🇸🇪|@oneclickvpnkeys|110.55
