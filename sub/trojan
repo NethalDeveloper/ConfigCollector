@@ -1,8 +1,9 @@
-trojan://telegram-id-privatevpns@3.75.71.127:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trj.rollingnext.co.uk&type=tcp#🇩🇪|@PrivateVPNs|144.53
-trojan://telegram-id-privatevpns@13.37.166.230:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trj.rollingnext.co.uk&type=tcp#🇫🇷|@PrivateVPNs|139.02
-trojan://telegram-id-privatevpns@13.42.126.155:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trj.rollingnext.co.uk&type=tcp#🇬🇧|@PrivateVPNs|134.45
-trojan://telegram-id-directvpn@3.121.4.86:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trj.rollingnext.co.uk&type=tcp#🇩🇪|@DirectVPN|144.62
-trojan://telegram-id-directvpn@52.58.131.167:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trj.rollingnext.co.uk&type=tcp#🇩🇪|@DirectVPN|146.32
-trojan://telegram-id-directvpn@16.171.77.35:22222?alpn=http%2F1.1&security=tls&sni=trj.rollingnext.co.uk&type=tcp#🇸🇪|@oneclickvpnkeys|162.72
-trojan://telegram-id-privatevpns@52.48.21.116:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trj.rollingnext.co.uk&type=tcp#🇮🇪|@oneclickvpnkeys|133.86
-trojan://telegram-id-directvpn@16.171.77.35:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trj.rollingnext.co.uk&type=tcp#🇸🇪|@oneclickvpnkeys|163.54
+trojan://telegram-id-privatevpns@13.42.126.155:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trj.rollingnext.co.uk&type=tcp#🇬🇧|@PrivateVPNs|114.95
+trojan://telegram-id-privatevpns@16.16.231.80:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trj.rollingnext.co.uk&type=tcp#🇸🇪|@PrivateVPNs|141.47
+trojan://telegram-id-privatevpns@63.34.175.66:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trj.rollingnext.co.uk&type=tcp#🇮🇪|@PrivateVPNs|97.28
+trojan://telegram-id-directvpn@52.58.131.167:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trj.rollingnext.co.uk&type=tcp#🇩🇪|@DirectVPN|124.92
+trojan://telegram-id-directvpn@51.20.157.252:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trj.rollingnext.co.uk&type=tcp#🇸🇪|@DirectVPN|164.45
+trojan://telegram-id-directvpn@16.170.160.139:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trj.rollingnext.co.uk&type=tcp#🇸🇪|@DirectVPN|144.53
+trojan://telegram-id-directvpn@16.171.77.35:22222?alpn=http%2F1.1&security=tls&sni=trj.rollingnext.co.uk&type=tcp#🇸🇪|@oneclickvpnkeys|140.47
+trojan://telegram-id-privatevpns@52.48.21.116:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trj.rollingnext.co.uk&type=tcp#🇮🇪|@oneclickvpnkeys|106.17
+trojan://telegram-id-directvpn@16.171.77.35:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trj.rollingnext.co.uk&type=tcp#🇸🇪|@oneclickvpnkeys|140.2
