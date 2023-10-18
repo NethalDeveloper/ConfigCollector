@@ -1,7 +1,7 @@
-trojan://telegram-id-privatevpns@13.39.10.6:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trj.rollingnext.co.uk&type=tcp#🇫🇷|@PrivateVPNs|81.86
-trojan://telegram-id-privatevpns@35.177.251.134:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trj.rollingnext.co.uk&type=tcp#🇬🇧|@PrivateVPNs|76.25
-trojan://telegram-id-directvpn@34.240.21.228:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trj.rollingnext.co.uk&type=tcp#🇮🇪|@DirectVPN|68.47
-trojan://telegram-id-directvpn@18.190.48.59:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trj.rollingnext.co.uk&type=tcp#🇺🇸|@DirectVPN|78.45
-trojan://telegram-id-directvpn@51.20.147.133:22222?alpn=http%2F1.1&security=tls&sni=trj.rollingnext.co.uk&type=tcp#🇸🇪|@oneclickvpnkeys|107.78
-trojan://telegram-id-privatevpns@54.217.227.111:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trj.rollingnext.co.uk&type=tcp#🇮🇪|@vmess_vless_v2rayng|67.43
-trojan://telegram-id-directvpn@35.181.150.176:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trj.rollingnext.co.uk&type=tcp#🇫🇷|@vmess_vless_v2rayng|81.45
+trojan://telegram-id-privatevpns@35.177.251.134:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trj.rollingnext.co.uk&type=tcp#🇬🇧|@PrivateVPNs|133.36
+trojan://telegram-id-directvpn@18.190.48.59:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trj.rollingnext.co.uk&type=tcp#🇺🇸|@DirectVPN|58.24
+trojan://telegram-id-directvpn@13.48.168.170:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trj.rollingnext.co.uk&type=tcp#🇸🇪|@DirectVPN|196.98
+trojan://telegram-id-directvpn@51.20.33.153:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trj.rollingnext.co.uk&type=tcp#🇸🇪|@DirectVPN|209.65
+trojan://telegram-id-directvpn@51.20.147.133:22222?alpn=http%2F1.1&security=tls&sni=trj.rollingnext.co.uk&type=tcp#🇸🇪|@oneclickvpnkeys|159.83
+trojan://telegram-id-privatevpns@54.217.227.111:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trj.rollingnext.co.uk&type=tcp#🇮🇪|@vmess_vless_v2rayng|138.79
+trojan://telegram-id-directvpn@35.181.150.176:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trj.rollingnext.co.uk&type=tcp#🇫🇷|@vmess_vless_v2rayng|137.9
