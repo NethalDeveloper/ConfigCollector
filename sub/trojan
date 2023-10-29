@@ -1,7 +1,8 @@
-trojan://telegram-id-privatevpns@3.77.126.93:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trj.rollingnext.co.uk&type=tcp#🇩🇪|@PrivateVPNs|89.39
-trojan://telegram-id-privatevpns@3.77.65.62:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trj.rollingnext.co.uk&type=tcp#🇩🇪|@PrivateVPNs|90.55
-trojan://telegram-id-directvpn@18.203.41.165:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trj.rollingnext.co.uk&type=tcp#🇮🇪|@DirectVPN|66.8
-trojan://telegram-id-directvpn@54.73.47.128:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trj.rollingnext.co.uk&type=tcp#🇮🇪|@DirectVPN|67.31
-trojan://telegram-id-directvpn@16.16.181.86:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trj.rollingnext.co.uk&type=tcp#🇸🇪|@DirectVPN|104.69
-trojan://telegram-id-privatevpns@35.177.56.141:22222?alpn=http%2F1.1&security=tls&sni=trj.rollingnext.co.uk&type=tcp#🇬🇧|@oneclickvpnkeys|81.09
-trojan://22dxmxezsm@discord.com:443?fp=chrome&security=tls&serviceName=Amsterdam&sni=brec3xLN7Zl2.pouriya.cf&type=grpc#🚩|@oneclickvpnkeys|4.46
+trojan://telegram-id-privatevpns@13.36.94.199:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trj.rollingnext.co.uk&type=tcp#🇫🇷|@PrivateVPNs|166.48
+trojan://telegram-id-privatevpns@13.36.29.111:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trj.rollingnext.co.uk&type=tcp#🇫🇷|@PrivateVPNs|156.28
+trojan://telegram-id-privatevpns@3.11.199.133:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trj.rollingnext.co.uk&type=tcp#🇬🇧|@PrivateVPNs|147.27
+trojan://telegram-id-directvpn@54.73.47.128:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trj.rollingnext.co.uk&type=tcp#🇮🇪|@DirectVPN|136.96
+trojan://telegram-id-directvpn@16.16.181.86:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trj.rollingnext.co.uk&type=tcp#🇸🇪|@DirectVPN|175.17
+trojan://telegram-id-directvpn@3.20.7.196:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trj.rollingnext.co.uk&type=tcp#🇺🇸|@DirectVPN|69.22
+trojan://telegram-id-privatevpns@35.177.56.141:22222?alpn=http%2F1.1&security=tls&sni=trj.rollingnext.co.uk&type=tcp#🇬🇧|@oneclickvpnkeys|150.04
+trojan://22dxmxezsm@discord.com:443?fp=chrome&security=tls&serviceName=Amsterdam&sni=brec3xLN7Zl2.pouriya.cf&type=grpc#🚩|@oneclickvpnkeys|7.72
