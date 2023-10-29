@@ -1,7 +1,8 @@
-trojan://telegram-id-privatevpns@13.43.228.50:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trj.rollingnext.co.uk&type=tcp#🇬🇧|@PrivateVPNs|110.65
-trojan://telegram-id-privatevpns@54.228.158.176:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trj.rollingnext.co.uk&type=tcp#🇮🇪|@PrivateVPNs|100.11
-trojan://telegram-id-privatevpns@54.155.230.106:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trj.rollingnext.co.uk&type=tcp#🇮🇪|@PrivateVPNs|100.83
-trojan://telegram-id-directvpn@3.77.15.105:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trj.rollingnext.co.uk&type=tcp#🇩🇪|@DirectVPN|119.59
-trojan://telegram-id-directvpn@52.57.104.203:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trj.rollingnext.co.uk&type=tcp#🇩🇪|@DirectVPN|120.77
-trojan://telegram-id-directvpn@13.43.69.5:22222?fp=chrome&security=tls&sni=trj.rollingnext.co.uk&type=tcp#🇬🇧|@oneclickvpnkeys|109.57
-trojan://telegram-id-directvpn@99.81.216.142:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trj.rollingnext.co.uk&type=tcp#🇮🇪|@vmess_vless_v2rayng|141.18
+trojan://telegram-id-privatevpns@13.43.228.50:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trj.rollingnext.co.uk&type=tcp#🇬🇧|@PrivateVPNs|125.98
+trojan://telegram-id-privatevpns@54.228.158.176:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trj.rollingnext.co.uk&type=tcp#🇮🇪|@PrivateVPNs|115.18
+trojan://telegram-id-privatevpns@54.155.230.106:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trj.rollingnext.co.uk&type=tcp#🇮🇪|@PrivateVPNs|117.94
+trojan://telegram-id-directvpn@3.77.15.105:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trj.rollingnext.co.uk&type=tcp#🇩🇪|@DirectVPN|143.76
+trojan://telegram-id-directvpn@52.57.104.203:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trj.rollingnext.co.uk&type=tcp#🇩🇪|@DirectVPN|136.86
+trojan://telegram-id-directvpn@13.43.69.5:22222?fp=chrome&security=tls&sni=trj.rollingnext.co.uk&type=tcp#🇬🇧|@oneclickvpnkeys|123.77
+trojan://telegram-id-directvpn@99.81.216.142:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trj.rollingnext.co.uk&type=tcp#🇮🇪|@vmess_vless_v2rayng|119.07
+trojan://5816b222-ee1d-4186-ac54-867c9db12842@172.232.148.56:443?headerType=none&security=tls&sni=sourceforge.net&type=tcp#🇸🇪|@ConfigsHUB|147.31
