@@ -1,7 +1,7 @@
-trojan://telegram-id-privatevpns@18.170.160.249:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trj.rollingnext.co.uk&type=tcp#🇬🇧|@PrivateVPNs|81.86
-trojan://telegram-id-privatevpns@99.81.25.111:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trj.rollingnext.co.uk&type=tcp#🇮🇪|@PrivateVPNs|71.32
-trojan://telegram-id-privatevpns@63.34.186.235:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trj.rollingnext.co.uk&type=tcp#🇮🇪|@PrivateVPNs|71.42
-trojan://telegram-id-directvpn@18.156.89.12:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trj.rollingnext.co.uk&type=tcp#🇩🇪|@DirectVPN|92.75
-trojan://telegram-id-directvpn@52.28.141.227:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trj.rollingnext.co.uk&type=tcp#🇩🇪|@DirectVPN|98.55
-trojan://telegram-id-privatevpns@35.177.56.141:22222?alpn=http%2F1.1&security=tls&sni=trj.rollingnext.co.uk&type=tcp#🇬🇧|@oneclickvpnkeys|83.21
-trojan://22dxmxezsm@discord.com:443?fp=chrome&security=tls&serviceName=Amsterdam&sni=brec3xLN7Zl2.pouriya.cf&type=grpc#🚩|@oneclickvpnkeys|14.71
+trojan://telegram-id-privatevpns@18.170.160.249:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trj.rollingnext.co.uk&type=tcp#🇬🇧|@PrivateVPNs|110.08
+trojan://telegram-id-privatevpns@99.81.25.111:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trj.rollingnext.co.uk&type=tcp#🇮🇪|@PrivateVPNs|100.06
+trojan://telegram-id-privatevpns@63.34.186.235:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trj.rollingnext.co.uk&type=tcp#🇮🇪|@PrivateVPNs|99.96
+trojan://telegram-id-directvpn@18.156.89.12:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trj.rollingnext.co.uk&type=tcp#🇩🇪|@DirectVPN|119.89
+trojan://telegram-id-directvpn@52.28.141.227:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trj.rollingnext.co.uk&type=tcp#🇩🇪|@DirectVPN|122.16
+trojan://telegram-id-privatevpns@35.177.56.141:22222?alpn=http%2F1.1&security=tls&sni=trj.rollingnext.co.uk&type=tcp#🇬🇧|@oneclickvpnkeys|106.99
+trojan://22dxmxezsm@discord.com:443?fp=chrome&security=tls&serviceName=Amsterdam&sni=brec3xLN7Zl2.pouriya.cf&type=grpc#🚩|@oneclickvpnkeys|75.39
