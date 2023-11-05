@@ -1,7 +1,7 @@
-trojan://telegram-id-privatevpns@18.135.82.76:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trj.rollingnext.co.uk&type=tcp#🇬🇧|@PrivateVPNs|171.92
-trojan://telegram-id-privatevpns@52.16.196.115:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trj.rollingnext.co.uk&type=tcp#🇮🇪|@PrivateVPNs|162.99
-trojan://telegram-id-privatevpns@52.213.209.253:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trj.rollingnext.co.uk&type=tcp#🇮🇪|@PrivateVPNs|145.08
-trojan://telegram-id-directvpn@18.157.145.71:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trj.rollingnext.co.uk&type=tcp#🇩🇪|@DirectVPN|158.32
-trojan://telegram-id-directvpn@3.79.252.9:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trj.rollingnext.co.uk&type=tcp#🇩🇪|@DirectVPN|157.87
-trojan://telegram-id-privatevpns@18.198.133.60:22222?alpn=http%2F1.1&security=tls&sni=trj.rollingnext.co.uk&type=tcp#🇩🇪|@oneclickvpnkeys|159.12
-trojan://3b69017a-078b-4e66-809d-c2a9be442c56@66.81.247.240:443?alpn=h2&fp=chrome&headerType=None&hiddify=1&host=vp3sp.vpweb.cfd&mode=gun&path=UNdNvcn3ae93DtCIlTmZNJh&security=tls&serviceName=UNdNvcn3ae93DtCIlTmZNJh&sni=vp3sp.vpweb.cfd&type=grpc#🇺🇸|@VmessProtocol|1.89
+trojan://telegram-id-privatevpns@18.135.82.76:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trj.rollingnext.co.uk&type=tcp#🇬🇧|@PrivateVPNs|165.67
+trojan://telegram-id-privatevpns@52.16.196.115:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trj.rollingnext.co.uk&type=tcp#🇮🇪|@PrivateVPNs|164.91
+trojan://telegram-id-privatevpns@52.213.209.253:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trj.rollingnext.co.uk&type=tcp#🇮🇪|@PrivateVPNs|156.34
+trojan://telegram-id-directvpn@18.157.145.71:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trj.rollingnext.co.uk&type=tcp#🇩🇪|@DirectVPN|157.72
+trojan://telegram-id-directvpn@3.79.252.9:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trj.rollingnext.co.uk&type=tcp#🇩🇪|@DirectVPN|179.74
+trojan://telegram-id-privatevpns@18.198.133.60:22222?alpn=http%2F1.1&security=tls&sni=trj.rollingnext.co.uk&type=tcp#🇩🇪|@oneclickvpnkeys|174.58
+trojan://3b69017a-078b-4e66-809d-c2a9be442c56@66.81.247.240:443?alpn=h2&fp=chrome&headerType=None&hiddify=1&host=vp3sp.vpweb.cfd&mode=gun&path=UNdNvcn3ae93DtCIlTmZNJh&security=tls&serviceName=UNdNvcn3ae93DtCIlTmZNJh&sni=vp3sp.vpweb.cfd&type=grpc#🇺🇸|@VmessProtocol|1.86
