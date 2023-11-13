@@ -1,8 +1,8 @@
-trojan://telegram-id-privatevpns@13.37.159.209:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trj.rollingnext.co.uk&type=tcp#🇫🇷|@PrivateVPNs|171.96
-trojan://telegram-id-privatevpns@15.236.185.63:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trj.rollingnext.co.uk&type=tcp#🇫🇷|@PrivateVPNs|162.64
-trojan://telegram-id-privatevpns@13.43.63.65:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trj.rollingnext.co.uk&type=tcp#🇬🇧|@PrivateVPNs|172.6
-trojan://telegram-id-directvpn@18.169.63.127:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trj.rollingnext.co.uk&type=tcp#🇬🇧|@DirectVPN|146.79
-trojan://telegram-id-directvpn@54.72.79.12:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trj.rollingnext.co.uk&type=tcp#🇮🇪|@DirectVPN|168.41
-trojan://telegram-id-directvpn@54.76.131.84:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trj.rollingnext.co.uk&type=tcp#🇮🇪|@DirectVPN|136.62
-trojan://52c020954a@208.115.233.80:443?headerType=none&security=tls&sni=usa2.connecton.surf&type=tcp#🇺🇸|@VmessProtocol|10.77
-trojan://u7888632354@p1.09vpn.com:2083?headerType=none&security=tls&type=tcp#🇰🇿|@VmessProtocol|188.88
+trojan://telegram-id-privatevpns@13.43.63.65:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trj.rollingnext.co.uk&type=tcp#🇬🇧|@PrivateVPNs|131.36
+trojan://telegram-id-privatevpns@3.8.113.221:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trj.rollingnext.co.uk&type=tcp#🇬🇧|@PrivateVPNs|136.76
+trojan://telegram-id-privatevpns@54.220.169.240:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trj.rollingnext.co.uk&type=tcp#🇮🇪|@PrivateVPNs|134.08
+trojan://telegram-id-directvpn@18.169.63.127:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trj.rollingnext.co.uk&type=tcp#🇬🇧|@DirectVPN|131.4
+trojan://telegram-id-directvpn@54.72.79.12:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trj.rollingnext.co.uk&type=tcp#🇮🇪|@DirectVPN|183.15
+trojan://telegram-id-directvpn@54.76.131.84:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trj.rollingnext.co.uk&type=tcp#🇮🇪|@DirectVPN|134.71
+trojan://52c020954a@208.115.233.80:443?headerType=none&security=tls&sni=usa2.connecton.surf&type=tcp#🇺🇸|@VmessProtocol|9.22
+trojan://u7888632354@p1.09vpn.com:2083?headerType=none&security=tls&type=tcp#🇰🇿|@VmessProtocol|170.71
