@@ -1,8 +1,8 @@
-trojan://telegram-id-privatevpns@13.42.205.217:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trj.rollingnext.co.uk&type=tcp#🇬🇧|@PrivateVPNs|199.22
-trojan://telegram-id-privatevpns@99.80.221.164:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trj.rollingnext.co.uk&type=tcp#🇮🇪|@PrivateVPNs|142.53
-trojan://telegram-id-privatevpns@108.128.117.53:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trj.rollingnext.co.uk&type=tcp#🇮🇪|@PrivateVPNs|165.76
-trojan://telegram-id-directvpn@18.153.171.209:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trj.rollingnext.co.uk&type=tcp#🇩🇪|@DirectVPN|159.04
-trojan://telegram-id-directvpn@18.198.64.129:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trj.rollingnext.co.uk&type=tcp#🇩🇪|@DirectVPN|203.54
-trojan://telegram-id-privatevpns@13.53.254.254:22222?security=tls&sni=trj.rollingnext.co.uk&type=tcp#🇸🇪|@oneclickvpnkeys|206.02
-trojan://52c020954a@208.115.233.80:443?headerType=none&security=tls&sni=usa2.connecton.surf&type=tcp#🇺🇸|@VmessProtocol|8.76
-trojan://u7888632354@p1.09vpn.com:2083?headerType=none&security=tls&type=tcp#🇰🇿|@VmessProtocol|177.54
+trojan://telegram-id-privatevpns@108.128.117.53:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trj.rollingnext.co.uk&type=tcp#🇮🇪|@PrivateVPNs|85.29
+trojan://telegram-id-privatevpns@16.171.214.41:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trj.rollingnext.co.uk&type=tcp#🇸🇪|@PrivateVPNs|154.87
+trojan://telegram-id-privatevpns@16.16.247.234:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trj.rollingnext.co.uk&type=tcp#🇸🇪|@PrivateVPNs|108.89
+trojan://telegram-id-directvpn@18.198.64.129:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trj.rollingnext.co.uk&type=tcp#🇩🇪|@DirectVPN|91.91
+trojan://telegram-id-directvpn@13.53.47.190:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trj.rollingnext.co.uk&type=tcp#🇸🇪|@DirectVPN|107.91
+trojan://telegram-id-directvpn@16.16.221.243:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trj.rollingnext.co.uk&type=tcp#🇸🇪|@DirectVPN|161.81
+trojan://52c020954a@208.115.233.80:443?headerType=none&security=tls&sni=usa2.connecton.surf&type=tcp#🇺🇸|@VmessProtocol|62.26
+trojan://u7888632354@p1.09vpn.com:2083?headerType=none&security=tls&type=tcp#🇰🇿|@VmessProtocol|198.71
