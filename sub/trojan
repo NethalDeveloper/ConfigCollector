@@ -1,8 +1,9 @@
-trojan://telegram-id-privatevpns@35.177.147.239:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trj.rollingnext.co.uk&type=tcp#🇬🇧|@PrivateVPNs|171.66
-trojan://telegram-id-privatevpns@52.209.239.173:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trj.rollingnext.co.uk&type=tcp#🇮🇪|@PrivateVPNs|167.14
-trojan://telegram-id-directvpn@35.176.146.207:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trj.rollingnext.co.uk&type=tcp#🇬🇧|@DirectVPN|170.3
-trojan://telegram-id-directvpn@52.210.81.88:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trj.rollingnext.co.uk&type=tcp#🇮🇪|@DirectVPN|150.7
-trojan://telegram-id-directvpn@52.19.244.180:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trj.rollingnext.co.uk&type=tcp#🇮🇪|@DirectVPN|146.18
-trojan://your_password@3.29.95.54:443?headerType=none&security=tls&sni=aws-uae-1.f1rocketnode.com&type=tcp#🇦🇪|@VmessProtocol|261.97
-trojan://your_password@15.160.138.221:443?headerType=none&security=tls&sni=aws-it-milan-1.f1rocketnode.com&type=tcp#🇮🇹|@VmessProtocol|169.78
-trojan://your_password@aws-ge-frankfurt-1.f1cflinea.com:443?host=aws-ge-frankfurt-1.f1cflinea.com&path=%2Ff1rocket&security=tls&sni=aws-ge-frankfurt-1.f1cflinea.com&type=ws#🚩|@VmessProtocol|2.17
+trojan://telegram-id-privatevpns@52.209.239.173:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trj.rollingnext.co.uk&type=tcp#🇮🇪|@PrivateVPNs|78.18
+trojan://telegram-id-privatevpns@3.251.101.115:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trj.rollingnext.co.uk&type=tcp#🇮🇪|@PrivateVPNs|79.1
+trojan://telegram-id-privatevpns@13.49.24.227:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trj.rollingnext.co.uk&type=tcp#🇸🇪|@PrivateVPNs|161.09
+trojan://telegram-id-directvpn@52.210.81.88:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trj.rollingnext.co.uk&type=tcp#🇮🇪|@DirectVPN|70.88
+trojan://telegram-id-directvpn@52.19.244.180:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trj.rollingnext.co.uk&type=tcp#🇮🇪|@DirectVPN|71.26
+trojan://telegram-id-directvpn@13.51.49.17:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trj.rollingnext.co.uk&type=tcp#🇸🇪|@DirectVPN|108.34
+trojan://your_password@3.29.95.54:443?headerType=none&security=tls&sni=aws-uae-1.f1rocketnode.com&type=tcp#🇦🇪|@VmessProtocol|191.73
+trojan://your_password@15.160.138.221:443?headerType=none&security=tls&sni=aws-it-milan-1.f1rocketnode.com&type=tcp#🇮🇹|@VmessProtocol|101.76
+trojan://your_password@aws-ge-frankfurt-1.f1cflinea.com:443?host=aws-ge-frankfurt-1.f1cflinea.com&path=%2Ff1rocket&security=tls&sni=aws-ge-frankfurt-1.f1cflinea.com&type=ws#🇺🇸|@VmessProtocol|5.92
