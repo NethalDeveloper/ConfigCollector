@@ -1,8 +1,8 @@
-trojan://telegram-id-privatevpns@18.193.230.168:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trj.rollingnext.co.uk&type=tcp#🇩🇪|@PrivateVPNs|176.7
-trojan://telegram-id-privatevpns@3.123.67.12:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trj.rollingnext.co.uk&type=tcp#🇩🇪|@PrivateVPNs|178.06
-trojan://telegram-id-privatevpns@35.180.102.78:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trj.rollingnext.co.uk&type=tcp#🇫🇷|@PrivateVPNs|151.04
-trojan://telegram-id-directvpn@3.9.68.220:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trj.rollingnext.co.uk&type=tcp#🇬🇧|@DirectVPN|177.89
-trojan://telegram-id-directvpn@79.125.50.33:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trj.rollingnext.co.uk&type=tcp#🇮🇪|@DirectVPN|160.24
-trojan://telegram-id-directvpn@44.230.244.77:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trj.rollingnext.co.uk&type=tcp#🇺🇸|@DirectVPN|20.94
-trojan://c78452f0-8489-43d8-87c6-68e55e3ce245@ssrsub.t18.trojan.tel:80?sni=ssrsub.t18.trojan.tel#🇺🇸|@yaney_01|139.22
-trojan://45a99be4-8cb4-4df2-b7a4-42f1a8dea5c1@usa.liangyuandiancloud.com:443#🇭🇰|@yaney_01|467.92
+trojan://telegram-id-privatevpns@18.193.230.168:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trj.rollingnext.co.uk&type=tcp#🇩🇪|@PrivateVPNs|141.02
+trojan://telegram-id-privatevpns@3.123.67.12:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trj.rollingnext.co.uk&type=tcp#🇩🇪|@PrivateVPNs|195
+trojan://telegram-id-privatevpns@35.180.102.78:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trj.rollingnext.co.uk&type=tcp#🇫🇷|@PrivateVPNs|142.73
+trojan://telegram-id-directvpn@3.9.68.220:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trj.rollingnext.co.uk&type=tcp#🇬🇧|@DirectVPN|192.3
+trojan://telegram-id-directvpn@79.125.50.33:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trj.rollingnext.co.uk&type=tcp#🇮🇪|@DirectVPN|118.76
+trojan://telegram-id-directvpn@44.230.244.77:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trj.rollingnext.co.uk&type=tcp#🇺🇸|@DirectVPN|60.32
+trojan://c78452f0-8489-43d8-87c6-68e55e3ce245@ssrsub.t18.trojan.tel:80?sni=ssrsub.t18.trojan.tel#🇺🇸|@yaney_01|452.23
+trojan://45a99be4-8cb4-4df2-b7a4-42f1a8dea5c1@usa.liangyuandiancloud.com:443#🇭🇰|@yaney_01|152.07
