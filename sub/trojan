@@ -1,8 +1,7 @@
-trojan://telegram-id-privatevpns@54.170.81.248:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trj.rollingnext.co.uk&type=tcp#🇮🇪|@PrivateVPNs|90.1
-trojan://telegram-id-privatevpns@13.50.72.221:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trj.rollingnext.co.uk&type=tcp#🇸🇪|@PrivateVPNs|164.17
-trojan://telegram-id-privatevpns@16.16.248.5:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trj.rollingnext.co.uk&type=tcp#🇸🇪|@PrivateVPNs|128.28
-trojan://telegram-id-directvpn@16.171.178.246:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trj.rollingnext.co.uk&type=tcp#🇸🇪|@DirectVPN|129.67
-trojan://telegram-id-directvpn@51.20.48.17:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trj.rollingnext.co.uk&type=tcp#🇫🇷|@DirectVPN|185.03
-trojan://telegram-id-directvpn@15.188.133.169:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trj.rollingnext.co.uk&type=tcp#🇫🇷|@DirectVPN|116.1
-trojan://c78452f0-8489-43d8-87c6-68e55e3ce245@ssrsub.t18.trojan.tel:80?sni=ssrsub.t18.trojan.tel#🇺🇸|@yaney_01|20.08
-trojan://45a99be4-8cb4-4df2-b7a4-42f1a8dea5c1@usa.liangyuandiancloud.com:443#🇭🇰|@yaney_01|260.24
+trojan://telegram-id-privatevpns@13.50.72.221:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trj.rollingnext.co.uk&type=tcp#🇸🇪|@PrivateVPNs|164.82
+trojan://telegram-id-privatevpns@16.16.248.5:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trj.rollingnext.co.uk&type=tcp#🇸🇪|@PrivateVPNs|201.07
+trojan://telegram-id-privatevpns@18.153.211.205:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trj.rollingnext.co.uk&type=tcp#🇩🇪|@PrivateVPNs|197.84
+trojan://telegram-id-directvpn@51.20.48.17:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trj.rollingnext.co.uk&type=tcp#🇫🇷|@DirectVPN|164.05
+trojan://telegram-id-directvpn@15.188.2.253:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trj.rollingnext.co.uk&type=tcp#🇫🇷|@DirectVPN|138.93
+trojan://c78452f0-8489-43d8-87c6-68e55e3ce245@ssrsub.t18.trojan.tel:80?sni=ssrsub.t18.trojan.tel#🇺🇸|@yaney_01|518.42
+trojan://45a99be4-8cb4-4df2-b7a4-42f1a8dea5c1@usa.liangyuandiancloud.com:443#🇭🇰|@yaney_01|349.78
