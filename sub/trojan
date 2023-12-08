@@ -1,8 +1,8 @@
-trojan://telegram-id-privatevpns@18.153.188.159:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trj.rollingnext.co.uk&type=tcp#🇩🇪|@PrivateVPNs|164.04
-trojan://telegram-id-privatevpns@3.123.162.196:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trj.rollingnext.co.uk&type=tcp#🇩🇪|@PrivateVPNs|158.12
-trojan://telegram-id-privatevpns@13.39.219.11:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trj.rollingnext.co.uk&type=tcp#🇫🇷|@PrivateVPNs|151.72
-trojan://telegram-id-directvpn@13.38.146.22:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trj.rollingnext.co.uk&type=tcp#🇫🇷|@DirectVPN|166.66
-trojan://telegram-id-directvpn@3.10.160.33:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trj.rollingnext.co.uk&type=tcp#🇬🇧|@DirectVPN|147.67
-trojan://telegram-id-directvpn@35.176.92.239:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trj.rollingnext.co.uk&type=tcp#🇬🇧|@DirectVPN|145.5
-trojan://9ebdbb4a-8ae6-45e8-9169-33fe68fdbaae@141.94.221.127:80?headerType=none&security=tls&sni=ftp.debian.org&type=tcp#🇫🇷|@v2ray1_ng|153.4
-trojan://65c3941e-46b9-42f6-9c89-daedf472b6db@141.94.221.127:80?sni=fr1-t.sshmax.xyz#🇫🇷|@yaney_01|159.96
+trojan://telegram-id-privatevpns@13.39.219.11:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trj.rollingnext.co.uk&type=tcp#🇫🇷|@PrivateVPNs|115.9
+trojan://telegram-id-privatevpns@13.39.219.221:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trj.rollingnext.co.uk&type=tcp#🇫🇷|@PrivateVPNs|121.03
+trojan://telegram-id-privatevpns@18.135.211.23:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trj.rollingnext.co.uk&type=tcp#🇬🇧|@PrivateVPNs|97.62
+trojan://telegram-id-directvpn@35.176.92.239:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trj.rollingnext.co.uk&type=tcp#🇬🇧|@DirectVPN|97.73
+trojan://telegram-id-directvpn@34.240.92.116:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trj.rollingnext.co.uk&type=tcp#🇮🇪|@DirectVPN|104.82
+trojan://9ebdbb4a-8ae6-45e8-9169-33fe68fdbaae@141.94.221.127:80?headerType=none&security=tls&sni=ftp.debian.org&type=tcp#🇫🇷|@v2ray1_ng|99.97
+trojan://9ebdbb4a-8ae6-45e8-9169-33fe68fdbaae@141.94.221.127:80?headerType=none&security=tls&type=tcp%E2%80%A6#🇫🇷|@v2ray1_ng|103.29
+trojan://65c3941e-46b9-42f6-9c89-daedf472b6db@141.94.221.127:80?sni=fr1-t.sshmax.xyz#🇫🇷|@yaney_01|104.43
