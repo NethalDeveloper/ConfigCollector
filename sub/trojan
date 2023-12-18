@@ -1,8 +1,8 @@
-trojan://telegram-id-privatevpns@13.41.112.191:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trj.rollingnext.co.uk&type=tcp#🇬🇧|@PrivateVPNs|130.14
-trojan://telegram-id-privatevpns@52.51.243.33:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trj.rollingnext.co.uk&type=tcp#🇮🇪|@PrivateVPNs|127.62
-trojan://telegram-id-privatevpns@3.251.101.115:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trj.rollingnext.co.uk&type=tcp#🇮🇪|@PrivateVPNs|125.33
-trojan://telegram-id-directvpn@51.20.11.185:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trj.rollingnext.co.uk&type=tcp#🇫🇷|@DirectVPN|160.17
-trojan://telegram-id-directvpn@18.185.146.213:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trj.rollingnext.co.uk&type=tcp#🇩🇪|@DirectVPN|141
-trojan://telegram-id-directvpn@3.124.247.162:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trj.rollingnext.co.uk&type=tcp#🇩🇪|@DirectVPN|200.12
-trojan://57edfecf-5694-4a34-8072-54a4f0636a62@68.233.121.121:40003?allowInsecure=1#🇨🇦|@yaney_01|85.72
-trojan://57edfecf-5694-4a34-8072-54a4f0636a62@64.110.90.224:40003?allowInsecure=1#🇺🇸|@yaney_01|132.61
+trojan://telegram-id-privatevpns@13.41.112.191:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trj.rollingnext.co.uk&type=tcp#🇬🇧|@PrivateVPNs|82.08
+trojan://telegram-id-privatevpns@52.51.243.33:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trj.rollingnext.co.uk&type=tcp#🇮🇪|@PrivateVPNs|86.24
+trojan://telegram-id-privatevpns@3.251.101.115:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trj.rollingnext.co.uk&type=tcp#🇮🇪|@PrivateVPNs|77.55
+trojan://telegram-id-directvpn@51.20.11.185:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trj.rollingnext.co.uk&type=tcp#🇫🇷|@DirectVPN|108.03
+trojan://telegram-id-directvpn@18.185.146.213:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trj.rollingnext.co.uk&type=tcp#🇩🇪|@DirectVPN|92.33
+trojan://telegram-id-directvpn@3.124.247.162:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trj.rollingnext.co.uk&type=tcp#🇩🇪|@DirectVPN|91.99
+trojan://57edfecf-5694-4a34-8072-54a4f0636a62@68.233.121.121:40003?allowInsecure=1#🇨🇦|@yaney_01|19.25
+trojan://57edfecf-5694-4a34-8072-54a4f0636a62@64.110.90.224:40003?allowInsecure=1#🇺🇸|@yaney_01|182.7
