@@ -1,7 +1,9 @@
-trojan://telegram-id-privatevpns@3.251.101.115:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trj.rollingnext.co.uk&type=tcp#🇮🇪|@PrivateVPNs|74.4
-trojan://telegram-id-privatevpns@13.48.72.20:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trj.rollingnext.co.uk&type=tcp#🇸🇪|@PrivateVPNs|154.23
-trojan://telegram-id-privatevpns@16.171.118.2:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trj.rollingnext.co.uk&type=tcp#🇸🇪|@PrivateVPNs|162.39
-trojan://telegram-id-directvpn@51.20.11.185:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trj.rollingnext.co.uk&type=tcp#🇫🇷|@DirectVPN|108.75
-trojan://telegram-id-directvpn@35.181.24.132:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trj.rollingnext.co.uk&type=tcp#🇫🇷|@DirectVPN|83.47
-trojan://57edfecf-5694-4a34-8072-54a4f0636a62@68.233.121.121:40003?allowInsecure=1#🇨🇦|@yaney_01|30.99
-trojan://57edfecf-5694-4a34-8072-54a4f0636a62@64.110.90.224:40003?allowInsecure=1#🇺🇸|@yaney_01|191.33
+trojan://telegram-id-privatevpns@13.48.72.20:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trj.rollingnext.co.uk&type=tcp#🇸🇪|@PrivateVPNs|161.37
+trojan://telegram-id-privatevpns@16.171.118.2:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trj.rollingnext.co.uk&type=tcp#🇸🇪|@PrivateVPNs|160.03
+trojan://telegram-id-privatevpns@18.199.51.88:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trj.rollingnext.co.uk&type=tcp#🇩🇪|@PrivateVPNs|144.3
+trojan://telegram-id-directvpn@51.20.11.185:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trj.rollingnext.co.uk&type=tcp#🇫🇷|@DirectVPN|160.02
+trojan://telegram-id-directvpn@35.181.24.132:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trj.rollingnext.co.uk&type=tcp#🇫🇷|@DirectVPN|133.9
+trojan://telegram-id-directvpn@15.236.222.125:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trj.rollingnext.co.uk&type=tcp#🇫🇷|@DirectVPN|138.61
+trojan://57edfecf-5694-4a34-8072-54a4f0636a62@68.233.121.121:40003?allowInsecure=1#🇨🇦|@yaney_01|81.91
+trojan://57edfecf-5694-4a34-8072-54a4f0636a62@64.110.90.224:40003?allowInsecure=1#🇺🇸|@yaney_01|140.11
+trojan://6befeeb3-702b-4948-9028-f9e072f2da98@5.104.107.143:443#🇩🇪|@yaney_01|134.59
