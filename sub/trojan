@@ -1,7 +1,9 @@
-trojan://telegram-id-privatevpns@13.42.242.199:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trojan.miwan.co.uk&type=tcp#🇬🇧|@PrivateVPNs|146.25
-trojan://telegram-id-privatevpns@54.228.131.245:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trojan.miwan.co.uk&type=tcp#🇮🇪|@PrivateVPNs|136.3
-trojan://telegram-id-privatevpns@52.209.143.178:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trojan.miwan.co.uk&type=tcp#🇮🇪|@PrivateVPNs|136.31
-trojan://telegram-id-directvpn@3.65.248.151:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trojan.miwan.co.uk&type=tcp#🇩🇪|@DirectVPN|160.58
-trojan://telegram-id-directvpn@35.156.55.2:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trojan.miwan.co.uk&type=tcp#🇩🇪|@DirectVPN|157.85
-trojan://ccfd483b-a2c6-49be-8047-115ffcc073ce@ru.mjt000.com:443?security=tls&sni=ru.mjt000.com&type=tcp#🇯🇵|@oneclickvpnkeys|107.54
-trojan://dQDQCtns4R@162.159.138.232:443?host=fadaei.movieland.top&path=static34528&security=tls&sni=fadaei.movieland.top&type=ws#🚩|@ovpn2|1.57
+trojan://telegram-id-privatevpns@52.209.143.178:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trojan.miwan.co.uk&type=tcp#🇮🇪|@PrivateVPNs|123.59
+trojan://telegram-id-privatevpns@13.48.154.180:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trojan.miwan.co.uk&type=tcp#🇸🇪|@PrivateVPNs|211.68
+trojan://telegram-id-privatevpns@13.50.139.61:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trojan.miwan.co.uk&type=tcp#🇸🇪|@PrivateVPNs|156.96
+trojan://telegram-id-directvpn@35.156.55.2:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trojan.miwan.co.uk&type=tcp#🇩🇪|@DirectVPN|146.6
+trojan://telegram-id-directvpn@13.51.128.213:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trojan.miwan.co.uk&type=tcp#🇸🇪|@DirectVPN|161.02
+trojan://telegram-id-directvpn@51.21.119.218:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trojan.miwan.co.uk&type=tcp#🇸🇪|@DirectVPN|160.8
+trojan://ccfd483b-a2c6-49be-8047-115ffcc073ce@ru.mjt000.com:443?security=tls&sni=ru.mjt000.com&type=tcp#🇯🇵|@oneclickvpnkeys|298.22
+trojan://AlaJXoIfOp@3.73.62.162:8080?serviceName=kiava&type=grpc#🇩🇪|@oneclickvpnkeys|148.36
+trojan://dQDQCtns4R@162.159.138.232:443?host=fadaei.movieland.top&path=static34528&security=tls&sni=fadaei.movieland.top&type=ws#🚩|@ovpn2|8.53
