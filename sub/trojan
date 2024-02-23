@@ -1,6 +1,8 @@
-trojan://telegram-id-privatevpns@13.43.213.194:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trojan.miwan.co.uk&type=tcp#🇬🇧|@PrivateVPNs|77.61
-trojan://telegram-id-privatevpns@54.194.19.172:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trojan.miwan.co.uk&type=tcp#🇮🇪|@PrivateVPNs|67.43
-trojan://telegram-id-directvpn@3.69.210.69:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trojan.miwan.co.uk&type=tcp#🇩🇪|@DirectVPN|88.24
-trojan://telegram-id-directvpn@3.65.230.225:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trojan.miwan.co.uk&type=tcp#🇩🇪|@DirectVPN|102.66
-trojan://AlaJXoIfOp@3.73.62.162:8080?serviceName=kiava&type=grpc#🇩🇪|@oneclickvpnkeys|87.69
-trojan://dQDQCtns4R@162.159.138.232:443?host=fadaei.movieland.top&path=static34528&security=tls&sni=fadaei.movieland.top&type=ws#🚩|@ovpn2|1.45
+trojan://telegram-id-privatevpns@52.213.23.160:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trojan.miwan.co.uk&type=tcp#🇮🇪|@PrivateVPNs|162.92
+trojan://telegram-id-privatevpns@51.20.62.209:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trojan.miwan.co.uk&type=tcp#🇸🇪|@PrivateVPNs|200.33
+trojan://telegram-id-privatevpns@13.53.178.21:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trojan.miwan.co.uk&type=tcp#🇸🇪|@PrivateVPNs|173.59
+trojan://telegram-id-directvpn@3.65.230.225:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trojan.miwan.co.uk&type=tcp#🇩🇪|@DirectVPN|160.75
+trojan://telegram-id-directvpn@13.51.23.56:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trojan.miwan.co.uk&type=tcp#🇸🇪|@DirectVPN|175.37
+trojan://telegram-id-directvpn@13.48.2.219:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trojan.miwan.co.uk&type=tcp#🇸🇪|@DirectVPN|174.69
+trojan://AlaJXoIfOp@3.73.62.162:8080?serviceName=kiava&type=grpc#🇩🇪|@oneclickvpnkeys|163.21
+trojan://dQDQCtns4R@162.159.138.232:443?host=fadaei.movieland.top&path=static34528&security=tls&sni=fadaei.movieland.top&type=ws#🚩|@ovpn2|2.08
