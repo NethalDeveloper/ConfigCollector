@@ -1,6 +1,8 @@
-trojan://telegram-id-privatevpns@3.76.236.86:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trojan.burgerip.co.uk&type=tcp#🇩🇪|@PrivateVPNs|205.64
-trojan://telegram-id-privatevpns@3.66.205.139:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trojan.burgerip.co.uk&type=tcp#🇩🇪|@PrivateVPNs|142.97
-trojan://telegram-id-privatevpns@13.39.241.192:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trojan.burgerip.co.uk&type=tcp#🇫🇷|@PrivateVPNs|131.49
-trojan://telegram-id-directvpn@13.41.145.206:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trojan.burgerip.co.uk&type=tcp#🇬🇧|@DirectVPN|123.97
-trojan://dQDQCtns4R@162.159.138.232:443?host=fadaei.movieland.top&path=static34528&security=tls&sni=fadaei.movieland.top&type=ws#🚩|@ovpn2|8.57
-trojan://71409d3e488548e8bb076d229778f008@104.17.147.77:443?host=bangladeshipatri.com&path=6b777a91&security=tls&sni=bangladeshipatri.com&type=ws#🚩|@vpn_tehran|16.13
+trojan://telegram-id-privatevpns@13.39.241.192:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trojan.burgerip.co.uk&type=tcp#🇫🇷|@PrivateVPNs|128.43
+trojan://telegram-id-privatevpns@35.180.13.196:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trojan.burgerip.co.uk&type=tcp#🇫🇷|@PrivateVPNs|95.67
+trojan://telegram-id-privatevpns@18.169.92.71:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trojan.burgerip.co.uk&type=tcp#🇬🇧|@PrivateVPNs|81.24
+trojan://telegram-id-directvpn@13.41.145.206:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trojan.burgerip.co.uk&type=tcp#🇬🇧|@DirectVPN|80.26
+trojan://telegram-id-directvpn@52.209.73.90:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trojan.burgerip.co.uk&type=tcp#🇮🇪|@DirectVPN|70.52
+trojan://telegram-id-directvpn@54.73.135.155:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trojan.burgerip.co.uk&type=tcp#🇮🇪|@DirectVPN|70.68
+trojan://dQDQCtns4R@162.159.138.232:443?host=fadaei.movieland.top&path=static34528&security=tls&sni=fadaei.movieland.top&type=ws#🚩|@ovpn2|5.58
+trojan://71409d3e488548e8bb076d229778f008@104.17.147.77:443?host=bangladeshipatri.com&path=6b777a91&security=tls&sni=bangladeshipatri.com&type=ws#🚩|@vpn_tehran|5.2
