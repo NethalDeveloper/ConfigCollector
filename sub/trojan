@@ -1,7 +1,8 @@
-trojan://telegram-id-privatevpns@18.168.174.231:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trojan.burgerip.co.uk&type=tcp#🇬🇧|@PrivateVPNs|81.75
-trojan://telegram-id-privatevpns@34.250.149.249:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trojan.burgerip.co.uk&type=tcp#🇮🇪|@PrivateVPNs|71.53
-trojan://telegram-id-privatevpns@18.202.9.70:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trojan.burgerip.co.uk&type=tcp#🇮🇪|@PrivateVPNs|71.2
-trojan://telegram-id-directvpn@18.159.237.251:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trojan.burgerip.co.uk&type=tcp#🇩🇪|@DirectVPN|92.99
-trojan://telegram-id-directvpn@54.93.102.87:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trojan.burgerip.co.uk&type=tcp#🇩🇪|@DirectVPN|93.01
-trojan://dQDQCtns4R@162.159.138.232:443?host=fadaei.movieland.top&path=static34528&security=tls&sni=fadaei.movieland.top&type=ws#🚩|@ovpn2|5.44
-trojan://dba20dcb635e430fa4d3bfc303a149d2@104.16.159.3:443?host=bangladeshipatri.com&path=6b777a91&security=tls&sni=bangladeshipatri.com&type=ws#🚩|@vpn_tehran|5.25
+trojan://telegram-id-privatevpns@18.202.9.70:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trojan.burgerip.co.uk&type=tcp#🇮🇪|@PrivateVPNs|88.05
+trojan://telegram-id-privatevpns@51.21.86.176:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trojan.burgerip.co.uk&type=tcp#🇸🇪|@PrivateVPNs|173.53
+trojan://telegram-id-privatevpns@16.170.57.95:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trojan.burgerip.co.uk&type=tcp#🇸🇪|@PrivateVPNs|125.95
+trojan://telegram-id-directvpn@54.93.102.87:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trojan.burgerip.co.uk&type=tcp#🇩🇪|@DirectVPN|109.75
+trojan://telegram-id-directvpn@16.170.20.140:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trojan.burgerip.co.uk&type=tcp#🇸🇪|@DirectVPN|126.85
+trojan://telegram-id-directvpn@16.170.190.188:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trojan.burgerip.co.uk&type=tcp#🇸🇪|@DirectVPN|124.95
+trojan://dQDQCtns4R@162.159.138.232:443?host=fadaei.movieland.top&path=static34528&security=tls&sni=fadaei.movieland.top&type=ws#🚩|@ovpn2|3.04
+trojan://dba20dcb635e430fa4d3bfc303a149d2@104.16.159.3:443?host=bangladeshipatri.com&path=6b777a91&security=tls&sni=bangladeshipatri.com&type=ws#🚩|@vpn_tehran|2.14
