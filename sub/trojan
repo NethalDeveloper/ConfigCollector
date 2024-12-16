@@ -1,7 +1,8 @@
-trojan://telegram-id-privatevpns@18.185.81.108:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trojan.burgerip.co.uk&type=tcp#🇩🇪|@PrivateVPNs|161.39
-trojan://telegram-id-privatevpns@63.177.132.151:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trojan.burgerip.co.uk&type=tcp#🇩🇪|@PrivateVPNs|166.29
-trojan://telegram-id-directvpn@15.157.0.108:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trojan.burgerip.co.uk&type=tcp#🇨🇦|@DirectVPN|94.78
-trojan://telegram-id-directvpn@3.14.50.80:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trojan.burgerip.co.uk&type=tcp#🇺🇸|@DirectVPN|76.58
-trojan://3648425794742788096@polished-ox.treefrog761.one:443?headerType=none&security=tls&sni=polished-ox.treefrog761.one&type=tcp#🇸🇬|@VmessProtocol|179.67
-trojan://dQDQCtns4R@162.159.138.232:443?host=fadaei.movieland.top&path=static34528&security=tls&sni=fadaei.movieland.top&type=ws#🚩|@ovpn2|2.15
-trojan://4ea1d07c-41c2-42b5-954d-414fee051856@df.xiguajiasu.xyz:46002#🇨🇳|@yaney_01|154.11
+trojan://telegram-id-privatevpns@18.185.81.108:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trojan.burgerip.co.uk&type=tcp#🇩🇪|@PrivateVPNs|146.27
+trojan://telegram-id-privatevpns@63.177.132.151:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trojan.burgerip.co.uk&type=tcp#🇩🇪|@PrivateVPNs|123.68
+trojan://telegram-id-privatevpns@51.44.35.184:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trojan.burgerip.co.uk&type=tcp#🇫🇷|@PrivateVPNs|105.29
+trojan://telegram-id-directvpn@15.157.0.108:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trojan.burgerip.co.uk&type=tcp#🇨🇦|@DirectVPN|21.25
+trojan://telegram-id-directvpn@3.14.50.80:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trojan.burgerip.co.uk&type=tcp#🇺🇸|@DirectVPN|69.93
+trojan://telegram-id-directvpn@13.58.213.147:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trojan.burgerip.co.uk&type=tcp#🇺🇸|@DirectVPN|76.03
+trojan://3648425794742788096@polished-ox.treefrog761.one:443?headerType=none&security=tls&sni=polished-ox.treefrog761.one&type=tcp#🇸🇬|@VmessProtocol|238.38
+trojan://dQDQCtns4R@162.159.138.232:443?host=fadaei.movieland.top&path=static34528&security=tls&sni=fadaei.movieland.top&type=ws#🚩|@ovpn2|2.99
