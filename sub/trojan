@@ -1,8 +1,9 @@
-trojan://telegram-id-privatevpns@35.177.79.12:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trojan.burgerip.co.uk&type=tcp#🇬🇧|@PrivateVPNs|120.56
-trojan://telegram-id-privatevpns@54.75.205.131:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trojan.burgerip.co.uk&type=tcp#🇮🇪|@PrivateVPNs|94.83
-trojan://telegram-id-directvpn@18.119.69.149:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trojan.burgerip.co.uk&type=tcp#🇺🇸|@DirectVPN|17.79
-trojan://telegram-id-directvpn@18.219.88.64:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trojan.burgerip.co.uk&type=tcp#🇺🇸|@DirectVPN|17.48
-trojan://telegram-id-directvpn@3.220.236.149:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trojan.burgerip.co.uk&type=tcp#🇺🇸|@DirectVPN|55.78
-trojan://3648425794742788096@polished-ox.treefrog761.one:443?headerType=none&security=tls&sni=polished-ox.treefrog761.one&type=tcp#🇸🇬|@VmessProtocol|220.6
-trojan://9d0a75d2-f747-4afa-b43f-d208af9e8f9a@bz02.ssr.ee:443?headerType=none&security=tls&sni=bz02.ssr.ee&type=tcp#🇧🇷|@VmessProtocol|147.51
-trojan://dQDQCtns4R@162.159.138.232:443?host=fadaei.movieland.top&path=static34528&security=tls&sni=fadaei.movieland.top&type=ws#🚩|@ovpn2|4.74
+trojan://telegram-id-privatevpns@35.177.79.12:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trojan.burgerip.co.uk&type=tcp#🇬🇧|@PrivateVPNs|77.07
+trojan://telegram-id-privatevpns@54.75.205.131:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trojan.burgerip.co.uk&type=tcp#🇮🇪|@PrivateVPNs|81.3
+trojan://telegram-id-privatevpns@99.81.131.216:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trojan.burgerip.co.uk&type=tcp#🇮🇪|@PrivateVPNs|92.95
+trojan://telegram-id-directvpn@3.220.236.149:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trojan.burgerip.co.uk&type=tcp#🇺🇸|@DirectVPN|2.6
+trojan://telegram-id-directvpn@13.49.214.159:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trojan.burgerip.co.uk&type=tcp#🇸🇪|@DirectVPN|103.11
+trojan://telegram-id-directvpn@16.16.48.176:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trojan.burgerip.co.uk&type=tcp#🇸🇪|@DirectVPN|101.52
+trojan://3648425794742788096@polished-ox.treefrog761.one:443?headerType=none&security=tls&sni=polished-ox.treefrog761.one&type=tcp#🇸🇬|@VmessProtocol|228.82
+trojan://9d0a75d2-f747-4afa-b43f-d208af9e8f9a@bz02.ssr.ee:443?headerType=none&security=tls&sni=bz02.ssr.ee&type=tcp#🇧🇷|@VmessProtocol|229.16
+trojan://dQDQCtns4R@162.159.138.232:443?host=fadaei.movieland.top&path=static34528&security=tls&sni=fadaei.movieland.top&type=ws#🚩|@ovpn2|1.01
