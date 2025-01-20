@@ -1,7 +1,7 @@
-trojan://telegram-id-privatevpns@18.171.125.217:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trojan.burgerip.co.uk&type=tcp#🇬🇧|@PrivateVPNs|163.4
-trojan://telegram-id-privatevpns@52.48.234.250:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trojan.burgerip.co.uk&type=tcp#🇮🇪|@PrivateVPNs|136.54
-trojan://telegram-id-directvpn@13.50.125.157:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trojan.burgerip.co.uk&type=tcp#🇸🇪|@DirectVPN|172.59
-trojan://telegram-id-directvpn@18.198.82.71:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trojan.burgerip.co.uk&type=tcp#🇩🇪|@DirectVPN|213.63
-trojan://telegram-id-directvpn@63.177.172.6:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trojan.burgerip.co.uk&type=tcp#🇩🇪|@DirectVPN|195.13
-trojan://3723507166611775488@sensible-ocelot.boa152.lol:443?allowInsecure=1&security=tls&sni=sensible-ocelot.boa152.lol&type=tcp#🇨🇿|@VmessProtocol|164.15
-trojan://dQDQCtns4R@162.159.138.232:443?host=fadaei.movieland.top&path=static34528&security=tls&sni=fadaei.movieland.top&type=ws#🚩|@ovpn2|1.92
+trojan://telegram-id-privatevpns@18.171.125.217:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trojan.burgerip.co.uk&type=tcp#🇬🇧|@PrivateVPNs|146.73
+trojan://telegram-id-privatevpns@34.250.93.54:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trojan.burgerip.co.uk&type=tcp#🇮🇪|@PrivateVPNs|149.45
+trojan://telegram-id-directvpn@13.50.125.157:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trojan.burgerip.co.uk&type=tcp#🇸🇪|@DirectVPN|170.4
+trojan://telegram-id-directvpn@18.198.82.71:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trojan.burgerip.co.uk&type=tcp#🇩🇪|@DirectVPN|161
+trojan://telegram-id-directvpn@63.177.172.6:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trojan.burgerip.co.uk&type=tcp#🇩🇪|@DirectVPN|203.87
+trojan://3723507166611775488@sensible-ocelot.boa152.lol:443?allowInsecure=1&security=tls&sni=sensible-ocelot.boa152.lol&type=tcp#🇨🇿|@VmessProtocol|159.33
+trojan://dQDQCtns4R@162.159.138.232:443?host=fadaei.movieland.top&path=static34528&security=tls&sni=fadaei.movieland.top&type=ws#🚩|@ovpn2|1.87
