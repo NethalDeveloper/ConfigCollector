@@ -1,7 +1,9 @@
-trojan://telegram-id-privatevpns@18.169.64.90:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trojan.burgerip.co.uk&type=tcp#🇬🇧|@PrivateVPNs|124.55
-trojan://telegram-id-privatevpns@34.248.227.85:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trojan.burgerip.co.uk&type=tcp#🇮🇪|@PrivateVPNs|114.5
-trojan://telegram-id-privatevpns@34.246.192.83:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trojan.burgerip.co.uk&type=tcp#🇮🇪|@PrivateVPNs|114.86
-trojan://telegram-id-directvpn@3.139.114.161:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trojan.burgerip.co.uk&type=tcp#🇺🇸|@DirectVPN|56.29
-trojan://telegram-id-directvpn@3.20.84.34:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trojan.burgerip.co.uk&type=tcp#🇺🇸|@DirectVPN|76.78
-trojan://3723507166611775488@sensible-ocelot.boa152.lol:443?allowInsecure=1&security=tls&sni=sensible-ocelot.boa152.lol&type=tcp#🇨🇿|@VmessProtocol|278.92
-trojan://dQDQCtns4R@162.159.138.232:443?host=fadaei.movieland.top&path=static34528&security=tls&sni=fadaei.movieland.top&type=ws#🚩|@ovpn2|9.07
+trojan://telegram-id-privatevpns@34.246.192.83:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trojan.burgerip.co.uk&type=tcp#🇮🇪|@PrivateVPNs|136.27
+trojan://telegram-id-privatevpns@51.20.21.177:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trojan.burgerip.co.uk&type=tcp#🇸🇪|@PrivateVPNs|190.33
+trojan://telegram-id-privatevpns@13.48.50.49:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trojan.burgerip.co.uk&type=tcp#🇸🇪|@PrivateVPNs|170.4
+trojan://telegram-id-directvpn@3.20.84.34:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trojan.burgerip.co.uk&type=tcp#🇺🇸|@DirectVPN|68.77
+trojan://telegram-id-directvpn@13.48.254.32:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trojan.burgerip.co.uk&type=tcp#🇸🇪|@DirectVPN|170.36
+trojan://telegram-id-directvpn@13.51.118.200:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trojan.burgerip.co.uk&type=tcp#🇸🇪|@DirectVPN|170.26
+trojan://3723507166611775488@sensible-ocelot.boa152.lol:443?allowInsecure=1&security=tls&sni=sensible-ocelot.boa152.lol&type=tcp#🇨🇿|@VmessProtocol|175.84
+trojan://dQDQCtns4R@162.159.138.232:443?host=fadaei.movieland.top&path=static34528&security=tls&sni=fadaei.movieland.top&type=ws#🚩|@ovpn2|1.64
+trojan://4ea1d07c-41c2-42b5-954d-414fee051856@df.xiguajiasu.xyz:46002#🇨🇳|@yaney_01|417.49
