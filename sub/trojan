@@ -1,9 +1,8 @@
-trojan://telegram-id-privatevpns@18.135.178.5:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trojan.burgerip.co.uk&type=tcp#🇬🇧|@PrivateVPNs|147.35
-trojan://telegram-id-privatevpns@3.248.23.204:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trojan.burgerip.co.uk&type=tcp#🇮🇪|@PrivateVPNs|136.49
-trojan://telegram-id-privatevpns@52.30.134.26:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trojan.burgerip.co.uk&type=tcp#🇮🇪|@PrivateVPNs|136.46
-trojan://telegram-id-directvpn@51.20.223.190:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trojan.burgerip.co.uk&type=tcp#🇸🇪|@DirectVPN|172.76
-trojan://telegram-id-directvpn@3.64.83.162:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trojan.burgerip.co.uk&type=tcp#🇩🇪|@DirectVPN|160.79
-trojan://telegram-id-directvpn@3.74.202.41:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trojan.burgerip.co.uk&type=tcp#🇩🇪|@DirectVPN|160.74
-trojan://bpb-trojan@visa.cn:443?host=zamim340.ggff.net&path=%2Ftr%3Fed%3D2560&security=tls&sni=zamim340.ggff.net&type=ws#🚩|@VmessProtocol|208.08
-trojan://Aimer@162.159.45.156:8443?alpn=http%2F1.1&fp=randomized&host=ngepz.ambercc.filegear-sg.me&path=%2F%3Fed%3D2560&security=tls&sni=ngepz.ambercc.filegear-sg.me&type=ws#🚩|@VmessProtocol|8.72
-trojan://dQDQCtns4R@162.159.138.232:443?host=fadaei.movieland.top&path=static34528&security=tls&sni=fadaei.movieland.top&type=ws#🚩|@ovpn2|2.59
+trojan://telegram-id-privatevpns@18.135.178.5:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trojan.burgerip.co.uk&type=tcp#🇬🇧|@PrivateVPNs|81.75
+trojan://telegram-id-privatevpns@3.248.23.204:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trojan.burgerip.co.uk&type=tcp#🇮🇪|@PrivateVPNs|71.46
+trojan://telegram-id-privatevpns@52.30.134.26:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trojan.burgerip.co.uk&type=tcp#🇮🇪|@PrivateVPNs|136.67
+trojan://telegram-id-directvpn@3.64.83.162:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trojan.burgerip.co.uk&type=tcp#🇩🇪|@DirectVPN|92.56
+trojan://telegram-id-directvpn@3.74.202.41:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trojan.burgerip.co.uk&type=tcp#🇩🇪|@DirectVPN|127.19
+trojan://bpb-trojan@visa.cn:443?host=zamim340.ggff.net&path=%2Ftr%3Fed%3D2560&security=tls&sni=zamim340.ggff.net&type=ws#🚩|@VmessProtocol|44.04
+trojan://Aimer@162.159.45.156:8443?alpn=http%2F1.1&fp=randomized&host=ngepz.ambercc.filegear-sg.me&path=%2F%3Fed%3D2560&security=tls&sni=ngepz.ambercc.filegear-sg.me&type=ws#🚩|@VmessProtocol|26.92
+trojan://dQDQCtns4R@162.159.138.232:443?host=fadaei.movieland.top&path=static34528&security=tls&sni=fadaei.movieland.top&type=ws#🚩|@ovpn2|5.24
