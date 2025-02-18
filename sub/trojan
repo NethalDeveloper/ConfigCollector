@@ -1,8 +1,8 @@
-trojan://telegram-id-privatevpns@13.42.143.34:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trojan.burgerip.co.uk&type=tcp#🇬🇧|@PrivateVPNs|80.95
-trojan://telegram-id-privatevpns@3.10.219.29:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trojan.burgerip.co.uk&type=tcp#🇬🇧|@PrivateVPNs|80.94
-trojan://telegram-id-privatevpns@52.16.182.238:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trojan.burgerip.co.uk&type=tcp#🇮🇪|@PrivateVPNs|135.52
-trojan://telegram-id-directvpn@63.177.209.12:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trojan.burgerip.co.uk&type=tcp#🇩🇪|@DirectVPN|95.62
-trojan://ecd0de80-ec7d-11ef-b0dd-1239d0255272@uk1.test3.net:443?headerType=none&security=tls&type=tcp#🇬🇧|@v2ray1_ng|175.27
-trojan://bpb-trojan@japan.com:443?host=zamim340.ggff.net&path=%2Ftr%3Fed%3D2560&security=tls&sni=zamim340.ggff.net&type=ws#🚩|@VmessProtocol|6.36
-trojan://43e5eeacbad3032bfe4c25a2f011b6b7@104.251.227.182:443?headerType=none&security=tls&sni=hezijiasuqi.com&type=tcp#🇭🇰|@VmessProtocol|203.82
-trojan://dQDQCtns4R@162.159.138.232:443?host=fadaei.movieland.top&path=static34528&security=tls&sni=fadaei.movieland.top&type=ws#🚩|@ovpn2|5.24
+trojan://telegram-id-privatevpns@13.42.143.34:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trojan.burgerip.co.uk&type=tcp#🇬🇧|@PrivateVPNs|147.95
+trojan://telegram-id-privatevpns@3.10.219.29:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trojan.burgerip.co.uk&type=tcp#🇬🇧|@PrivateVPNs|145.9
+trojan://telegram-id-privatevpns@52.16.182.238:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trojan.burgerip.co.uk&type=tcp#🇮🇪|@PrivateVPNs|162.82
+trojan://telegram-id-directvpn@63.177.209.12:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trojan.burgerip.co.uk&type=tcp#🇩🇪|@DirectVPN|208.13
+trojan://ecd0de80-ec7d-11ef-b0dd-1239d0255272@uk1.test3.net:443?headerType=none&security=tls&type=tcp#🇬🇧|@v2ray1_ng|200.45
+trojan://bpb-trojan@japan.com:443?host=zamim340.ggff.net&path=%2Ftr%3Fed%3D2560&security=tls&sni=zamim340.ggff.net&type=ws#🚩|@VmessProtocol|2.53
+trojan://43e5eeacbad3032bfe4c25a2f011b6b7@104.251.227.182:443?headerType=none&security=tls&sni=hezijiasuqi.com&type=tcp#🇭🇰|@VmessProtocol|156.94
+trojan://dQDQCtns4R@162.159.138.232:443?host=fadaei.movieland.top&path=static34528&security=tls&sni=fadaei.movieland.top&type=ws#🚩|@ovpn2|1.87
