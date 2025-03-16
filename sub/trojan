@@ -1,8 +1,9 @@
-trojan://telegram-id-directvpn@13.51.111.100:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trojan.burgerip.co.uk&type=tcp#🇸🇪|@DirectVPN|102.16
-trojan://telegram-id-directvpn@13.39.29.192:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trojan.burgerip.co.uk&type=tcp#🇫🇷|@DirectVPN|105.9
-trojan://Pooria@104.17.148.22:443?path=trPyOrWMfkHd15oxiI%3Fed%3D1520%25%E2%80%A6#🚩|@v2ray1_ng|1.11
-trojan://Pooria@104.17.148.22:443?path=trPyOrWMfkHd15oxiI%3Fed%3D1520#@v2ray_alpha&security=tls&alpn=h2,http/1.1&host=301.pooriam.ir&fp=randomized&type=ws&sni=301.pOORiAm.ir#🚩|@v2ray1_ng|1.63
-trojan://bpb-trojan@104.21.75.193:443?path=%2Ftr%3Fed%3D2560#Telegram@V2ray_Alpha&security=tls&host=bpb-hd.aaronchin.xyz&type=ws&sni=bpb-hd.aaronchin.xyz#🚩|@v2ray1_ng|1.12
-trojan://3747000103274291200@185.67.125.177:443?headerType=none&security=tls&sni=quality-albacore.adder289.quest&type=tcp#🇮🇳|@VmessProtocol|181.52
-trojan://dQDQCtns4R@162.159.138.232:443?host=fadaei.movieland.top&path=static34528&security=tls&sni=fadaei.movieland.top&type=ws#🚩|@ovpn2|2.15
-trojan://4ea1d07c-41c2-42b5-954d-414fee051856@df.xiguajiasu.xyz:46002#🇨🇳|@yaney_01|441.42
+trojan://telegram-id-privatevpns@51.44.103.183:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trojan.burgerip.co.uk&type=tcp#🇫🇷|@PrivateVPNs|152.18
+trojan://telegram-id-directvpn@13.39.29.192:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trojan.burgerip.co.uk&type=tcp#🇫🇷|@DirectVPN|180.01
+trojan://telegram-id-directvpn@51.24.29.79:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trojan.burgerip.co.uk&type=tcp#🇬🇧|@DirectVPN|147.52
+trojan://telegram-id-directvpn@52.56.145.241:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trojan.burgerip.co.uk&type=tcp#🇬🇧|@DirectVPN|150.39
+trojan://Pooria@104.17.148.22:443?path=trPyOrWMfkHd15oxiI%3Fed%3D1520%25%E2%80%A6#🚩|@v2ray1_ng|1.76
+trojan://Pooria@104.17.148.22:443?path=trPyOrWMfkHd15oxiI%3Fed%3D1520#@v2ray_alpha&security=tls&alpn=h2,http/1.1&host=301.pooriam.ir&fp=randomized&type=ws&sni=301.pOORiAm.ir#🚩|@v2ray1_ng|1.6
+trojan://bpb-trojan@104.21.75.193:443?path=%2Ftr%3Fed%3D2560#Telegram@V2ray_Alpha&security=tls&host=bpb-hd.aaronchin.xyz&type=ws&sni=bpb-hd.aaronchin.xyz#🚩|@v2ray1_ng|1.54
+trojan://3747000103274291200@185.67.125.177:443?headerType=none&security=tls&sni=quality-albacore.adder289.quest&type=tcp#🇮🇳|@VmessProtocol|216.28
+trojan://dQDQCtns4R@162.159.138.232:443?host=fadaei.movieland.top&path=static34528&security=tls&sni=fadaei.movieland.top&type=ws#🚩|@ovpn2|1.79
