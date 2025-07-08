@@ -1,8 +1,9 @@
-trojan://telegram-id-privatevpns@63.178.143.137:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trojan.burgerip.co.uk&type=tcp#🇩🇪|@PrivateVPNs|92.83
-trojan://telegram-id-privatevpns@13.37.72.82:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trojan.burgerip.co.uk&type=tcp#🇫🇷|@PrivateVPNs|83.93
-trojan://telegram-id-privatevpns@13.38.221.138:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trojan.burgerip.co.uk&type=tcp#🇫🇷|@PrivateVPNs|85.25
-trojan://telegram-id-directvpn@13.38.221.138:22223?alpn=http%2F1.1&headerType=none&security=tls&sni=trojan.burgerip.co.uk&type=tcp#🇫🇷|@DirectVPN|90.11
-trojan://mZMgM1vKw5@85.255.9.247:1935?headerType=none&security=tls&sni=x1-czech-aruba-v2.devefun.org&type=tcp#🇨🇿|@v2ray1_ng|100.55
-trojan://trojan@109.234.211.66:8443?host=store.timimi.dpdns.org&path=%2F&security=tls&sni=store.timimi.dpdns.org&type=ws#🇪🇸|@v2ray1_ng|5.7
-trojan://dQDQCtns4R@162.159.138.232:443?host=fadaei.movieland.top&path=static34528&security=tls&sni=fadaei.movieland.top&type=ws#🚩|@ovpn2|5.41
-trojan://4ea1d07c-41c2-42b5-954d-414fee051856@df.xiguajiasu.xyz:46002#🇯🇵|@yaney_01|459.55
+trojan://telegram-id-privatevpns@63.178.143.137:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trojan.burgerip.co.uk&type=tcp#🇩🇪|@PrivateVPNs|93.07
+trojan://telegram-id-privatevpns@13.37.72.82:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trojan.burgerip.co.uk&type=tcp#🇫🇷|@PrivateVPNs|85.03
+trojan://telegram-id-privatevpns@13.38.221.138:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trojan.burgerip.co.uk&type=tcp#🇫🇷|@PrivateVPNs|86.32
+trojan://telegram-id-directvpn@63.178.143.137:22223?alpn=http%2F1.1&headerType=none&security=tls&sni=trojan.burgerip.co.uk&type=tcp#🇩🇪|@DirectVPN|92.12
+trojan://telegram-id-directvpn@13.38.221.138:22223?alpn=http%2F1.1&headerType=none&security=tls&sni=trojan.burgerip.co.uk&type=tcp#🇫🇷|@DirectVPN|85.09
+trojan://mZMgM1vKw5@85.255.9.247:1935?headerType=none&security=tls&sni=x1-czech-aruba-v2.devefun.org&type=tcp#🇨🇿|@v2ray1_ng|105.5
+trojan://trojan@109.234.211.66:8443?host=store.timimi.dpdns.org&path=%2F&security=tls&sni=store.timimi.dpdns.org&type=ws#🇪🇸|@v2ray1_ng|5.82
+trojan://dQDQCtns4R@162.159.138.232:443?host=fadaei.movieland.top&path=static34528&security=tls&sni=fadaei.movieland.top&type=ws#🚩|@ovpn2|5.72
+trojan://4ea1d07c-41c2-42b5-954d-414fee051856@df.xiguajiasu.xyz:46002#🇯🇵|@yaney_01|415.09
