@@ -1,8 +1,7 @@
-trojan://telegram-id-privatevpns@18.158.145.222:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trojan.burgerip.co.uk&type=tcp#🇩🇪|@PrivateVPNs|93.93
-trojan://telegram-id-privatevpns@3.75.2.219:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trojan.burgerip.co.uk&type=tcp#🇩🇪|@PrivateVPNs|94.87
-trojan://telegram-id-privatevpns@52.47.154.155:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trojan.burgerip.co.uk&type=tcp#🇫🇷|@PrivateVPNs|88.5
-trojan://telegram-id-directvpn@18.158.145.222:22223?alpn=http%2F1.1&headerType=none&security=tls&sni=trojan.burgerip.co.uk&type=tcp#🇩🇪|@DirectVPN|94.1
-trojan://telegram-id-directvpn@3.75.2.219:22223?alpn=http%2F1.1&headerType=none&security=tls&sni=trojan.burgerip.co.uk&type=tcp#🇩🇪|@DirectVPN|95.75
-trojan://telegram-id-directvpn@52.47.154.155:22223?alpn=http%2F1.1&headerType=none&security=tls&sni=trojan.burgerip.co.uk&type=tcp#🇫🇷|@DirectVPN|87.61
-trojan://dQDQCtns4R@162.159.138.232:443?host=fadaei.movieland.top&path=static34528&security=tls&sni=fadaei.movieland.top&type=ws#🚩|@ovpn2|1.62
-trojan://LG7HKcZFIJ@45.155.54.117:110?headerType=none&security=tls&sni=sws.ftpcomand.com&type=tcp#🇨🇭|@ConfigsHUB|98.98
+trojan://telegram-id-privatevpns@3.75.2.219:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trojan.burgerip.co.uk&type=tcp#🇩🇪|@PrivateVPNs|137.7
+trojan://telegram-id-privatevpns@52.47.154.155:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trojan.burgerip.co.uk&type=tcp#🇫🇷|@PrivateVPNs|131.05
+trojan://telegram-id-privatevpns@15.236.73.219:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trojan.burgerip.co.uk&type=tcp#🇫🇷|@PrivateVPNs|132.81
+trojan://telegram-id-directvpn@3.75.2.219:22223?alpn=http%2F1.1&headerType=none&security=tls&sni=trojan.burgerip.co.uk&type=tcp#🇩🇪|@DirectVPN|138.22
+trojan://telegram-id-directvpn@52.47.154.155:22223?alpn=http%2F1.1&headerType=none&security=tls&sni=trojan.burgerip.co.uk&type=tcp#🇫🇷|@DirectVPN|136.26
+trojan://telegram-id-directvpn@15.236.73.219:22223?alpn=http%2F1.1&headerType=none&security=tls&sni=trojan.burgerip.co.uk&type=tcp#🇫🇷|@DirectVPN|132.43
+trojan://dQDQCtns4R@162.159.138.232:443?host=fadaei.movieland.top&path=static34528&security=tls&sni=fadaei.movieland.top&type=ws#🚩|@ovpn2|8.71
