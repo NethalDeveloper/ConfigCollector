@@ -1,8 +1,7 @@
-trojan://telegram-id-privatevpns@3.72.127.134:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trojan.burgerip.co.uk&type=tcp#🇩🇪|@PrivateVPNs|108.82
-trojan://telegram-id-directvpn@3.72.127.134:22223?alpn=http%2F1.1&headerType=none&security=tls&sni=trojan.burgerip.co.uk&type=tcp#🇩🇪|@DirectVPN|108.08
-trojan://fg20mtCFHy@jpcaw.southbyte.xyz:5705?security=tls&type=tcp#🇯🇵|@oneclickvpnkeys|170.55
-trojan://2227640f-bc85-3b8d-9028-552118c934e9@43.160.193.245:443?security=tls&type=tcp#🇸🇬|@oneclickvpnkeys|203.18
-trojan://fb61f373-1a11-33d4-9e9f-5f0d984b28bc@vd0ee3cg.cs53rvhb.aliyunglsb.com:443?security=tls&type=tcp#🇸🇬|@oneclickvpnkeys|206.55
-trojan://YwuvGJk36B@creativecommons.org:2053?alpn=http%2F1.1&fp=firefox&host=kotlet.arshiacomplus.dpdns.org&path=%2Fyamtekodasayahhh&security=tls&sni=kotlet.arshiacomplus.dpdns.org&type=ws#🚩|@vmess_vless_v2rayng|3.04
-trojan://dQDQCtns4R@162.159.138.232:443?host=fadaei.movieland.top&path=static34528&security=tls&sni=fadaei.movieland.top&type=ws#🚩|@ovpn2|1.97
-trojan://dba20dcb635e430fa4d3bfc303a149d2@104.16.159.3:443?fp=chrome&host=bangladeshipatri.com&path=%2F6b777a91&security=tls&sni=bangladeshipatri.com&type=ws#🚩|@ConfigsHUB|10.13
+trojan://telegram-id-privatevpns@3.72.127.134:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trojan.burgerip.co.uk&type=tcp#🇩🇪|@PrivateVPNs|178.66
+trojan://telegram-id-directvpn@3.72.127.134:22223?alpn=http%2F1.1&headerType=none&security=tls&sni=trojan.burgerip.co.uk&type=tcp#🇩🇪|@DirectVPN|152.08
+trojan://fg20mtCFHy@jpcaw.southbyte.xyz:5705?security=tls&type=tcp#🇯🇵|@oneclickvpnkeys|111.8
+trojan://2227640f-bc85-3b8d-9028-552118c934e9@43.160.193.245:443?security=tls&type=tcp#🇸🇬|@oneclickvpnkeys|168.55
+trojan://fb61f373-1a11-33d4-9e9f-5f0d984b28bc@vd0ee3cg.cs53rvhb.aliyunglsb.com:443?security=tls&type=tcp#🇸🇬|@oneclickvpnkeys|168.59
+trojan://YwuvGJk36B@creativecommons.org:2053?alpn=http%2F1.1&fp=firefox&host=kotlet.arshiacomplus.dpdns.org&path=%2Fyamtekodasayahhh&security=tls&sni=kotlet.arshiacomplus.dpdns.org&type=ws#🚩|@vmess_vless_v2rayng|2.22
+trojan://dQDQCtns4R@162.159.138.232:443?host=fadaei.movieland.top&path=static34528&security=tls&sni=fadaei.movieland.top&type=ws#🚩|@ovpn2|1.59
