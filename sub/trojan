@@ -1,17 +1,14 @@
-trojan://telegram-id-privatevpns@35.181.120.20:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trojan.burgerip.co.uk&type=tcp#🇫🇷|@PrivateVPNs|128.27
-trojan://telegram-id-privatevpns@63.180.86.134:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trojan.burgerip.co.uk&type=tcp#🇩🇪|@PrivateVPNs|128.67
-trojan://telegram-id-privatevpns@18.197.191.17:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trojan.burgerip.co.uk&type=tcp#🇩🇪|@PrivateVPNs|107.77
-trojan://telegram-id-directvpn@35.181.120.20:22223?alpn=http%2F1.1&headerType=none&security=tls&sni=trojan.burgerip.co.uk&type=tcp#🇫🇷|@DirectVPN|101.33
-trojan://telegram-id-directvpn@63.180.86.134:22223?alpn=http%2F1.1&headerType=none&security=tls&sni=trojan.burgerip.co.uk&type=tcp#🇩🇪|@DirectVPN|151.22
-trojan://telegram-id-directvpn@18.197.191.17:22223?alpn=http%2F1.1&headerType=none&security=tls&sni=trojan.burgerip.co.uk&type=tcp#🇩🇪|@DirectVPN|107.58
-trojan://5fbEkKmVOdAY 8_-@217.69.10.156:16288?security=tls&sni=sweetdream.sweetthunder.click&type=tcp#🇫🇷|@oneclickvpnkeys|99.5
-trojan://83794b09-d50a-4e6e-9559-1372b6299e89@162.19.246.187:2053?host=joss.gpj1.web.id&path=%2FFree-VPN-CF-Geo-Project%2F162.19.246.187%3D2053&security=tls&sni=joss.gpj1.web.id&type=ws#🇫🇷|@oneclickvpnkeys|109.04
-trojan://0e0c9c2a-6166-4337-bdfc-675602365807@141.94.204.212:2053?allowInsecure=1&host=joss.gpj1.web.id&path=%2FFree-VPN-CF-Geo-Project%2F141.94.204.212%3D2053&security=tls&sni=joss.gpj1.web.id&type=ws#🇫🇷|@oneclickvpnkeys|101.34
-trojan://dd2f25b4c70689de8bc0f7fa9d6591cb@160.16.150.76:3093?headerType=none&security=tls&sni=www.nintendogames.net&type=tcp#🇯🇵|@v2ray1_ng|144.94
-trojan://c6b96097-fe2d-487d-b9ef-60c994b90db2@36.50.90.241:35951?fp=randomized&host=joss.gpj1.web.id&path=%2FFree-VPN-CF-Geo-Project%2F36.50.90.241%3D35951&security=tls&sni=joss.gpj1.web.id&type=ws#🇭🇰|@v2ray1_ng|221.05
-trojan://3c6c2cac-7e0a-462b-ae19-2e5e264d7fdf@46.183.186.57:443?fp=randomized&host=joss.gpj1.web.id&path=%2FFree-VPN-CF-Geo-Project%2F46.183.186.57%3D443&security=tls&sni=joss.gpj1.web.id&type=ws#🇭🇺|@v2ray1_ng|121.06
-trojan://YwuvGJk36B@creativecommons.org:2053?alpn=http%2F1.1&fp=firefox&host=kotlet.arshiacomplus.dpdns.org&path=%2Fyamtekodasayahhh&security=tls&sni=kotlet.arshiacomplus.dpdns.org&type=ws#🚩|@vmess_vless_v2rayng|2.43
-trojan://.+QAJot50sDi6mvb@5.188.108.13:11790?headerType=none&security=tls&sni=runningshoes.purpletornado.click&type=tcp#🇵🇱|@VmessProtocol|126.69
-trojan://dQDQCtns4R@162.159.138.232:443?host=fadaei.movieland.top&path=static34528&security=tls&sni=fadaei.movieland.top&type=ws#🚩|@ovpn2|2.67
-trojan://auto@104.21.48.61:443?encryption=none&host=nameless-term-9c25.vpnconnect202020.workers.dev&path=%2F%3Fed%3D2560&security=tls&sni=nameless-term-9c25.vpnconnect202020.workers.dev&type=ws#🚩|@ConfigsHUB|1.9
-trojan://. QAJot50sDi6mvb@5.188.108.13:11790?path=%2F&security=tls&sni=runningshoes.purpletornado.click&type=tcp#🇵🇱|@ConfigsHUB|124.66
+trojan://telegram-id-privatevpns@35.181.120.20:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trojan.burgerip.co.uk&type=tcp#🇫🇷|@PrivateVPNs|132.85
+trojan://telegram-id-privatevpns@63.180.86.134:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trojan.burgerip.co.uk&type=tcp#🇩🇪|@PrivateVPNs|200.65
+trojan://telegram-id-directvpn@35.181.120.20:22223?alpn=http%2F1.1&headerType=none&security=tls&sni=trojan.burgerip.co.uk&type=tcp#🇫🇷|@DirectVPN|132.14
+trojan://telegram-id-directvpn@63.180.86.134:22223?alpn=http%2F1.1&headerType=none&security=tls&sni=trojan.burgerip.co.uk&type=tcp#🇩🇪|@DirectVPN|139.88
+trojan://telegram-id-directvpn@18.197.191.17:22223?alpn=http%2F1.1&headerType=none&security=tls&sni=trojan.burgerip.co.uk&type=tcp#🇩🇪|@DirectVPN|132.96
+trojan://5fbEkKmVOdAY 8_-@217.69.10.156:16288?security=tls&sni=sweetdream.sweetthunder.click&type=tcp#🇫🇷|@oneclickvpnkeys|124.18
+trojan://83794b09-d50a-4e6e-9559-1372b6299e89@162.19.246.187:2053?host=joss.gpj1.web.id&path=%2FFree-VPN-CF-Geo-Project%2F162.19.246.187%3D2053&security=tls&sni=joss.gpj1.web.id&type=ws#🇫🇷|@oneclickvpnkeys|144.49
+trojan://0e0c9c2a-6166-4337-bdfc-675602365807@141.94.204.212:2053?allowInsecure=1&host=joss.gpj1.web.id&path=%2FFree-VPN-CF-Geo-Project%2F141.94.204.212%3D2053&security=tls&sni=joss.gpj1.web.id&type=ws#🇫🇷|@oneclickvpnkeys|139.7
+trojan://dd2f25b4c70689de8bc0f7fa9d6591cb@160.16.150.76:3093?headerType=none&security=tls&sni=www.nintendogames.net&type=tcp#🇯🇵|@v2ray1_ng|111.24
+trojan://c6b96097-fe2d-487d-b9ef-60c994b90db2@36.50.90.241:35951?fp=randomized&host=joss.gpj1.web.id&path=%2FFree-VPN-CF-Geo-Project%2F36.50.90.241%3D35951&security=tls&sni=joss.gpj1.web.id&type=ws#🇭🇰|@v2ray1_ng|185.05
+trojan://3c6c2cac-7e0a-462b-ae19-2e5e264d7fdf@46.183.186.57:443?fp=randomized&host=joss.gpj1.web.id&path=%2FFree-VPN-CF-Geo-Project%2F46.183.186.57%3D443&security=tls&sni=joss.gpj1.web.id&type=ws#🇭🇺|@v2ray1_ng|149
+trojan://YwuvGJk36B@creativecommons.org:2053?alpn=http%2F1.1&fp=firefox&host=kotlet.arshiacomplus.dpdns.org&path=%2Fyamtekodasayahhh&security=tls&sni=kotlet.arshiacomplus.dpdns.org&type=ws#🚩|@vmess_vless_v2rayng|9.35
+trojan://.+QAJot50sDi6mvb@5.188.108.13:11790?headerType=none&security=tls&sni=runningshoes.purpletornado.click&type=tcp#🇵🇱|@VmessProtocol|152.73
+trojan://dQDQCtns4R@162.159.138.232:443?host=fadaei.movieland.top&path=static34528&security=tls&sni=fadaei.movieland.top&type=ws#🚩|@ovpn2|8.69
