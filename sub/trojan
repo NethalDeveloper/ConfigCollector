@@ -1,13 +1,12 @@
-trojan://telegram-id-privatevpns@3.73.148.183:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trojan.burgerip.co.uk&type=tcp#🇩🇪|@PrivateVPNs|127.42
-trojan://telegram-id-privatevpns@15.188.211.210:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trojan.burgerip.co.uk&type=tcp#🇫🇷|@PrivateVPNs|126.23
-trojan://telegram-id-privatevpns@15.236.119.43:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trojan.burgerip.co.uk&type=tcp#🇫🇷|@PrivateVPNs|125.91
-trojan://telegram-id-directvpn@3.73.148.183:22223?alpn=http%2F1.1&headerType=none&security=tls&sni=trojan.burgerip.co.uk&type=tcp#🇩🇪|@DirectVPN|175.45
-trojan://telegram-id-directvpn@15.188.211.210:22223?alpn=http%2F1.1&headerType=none&security=tls&sni=trojan.burgerip.co.uk&type=tcp#🇫🇷|@DirectVPN|120.21
-trojan://telegram-id-directvpn@15.236.119.43:22223?alpn=http%2F1.1&headerType=none&security=tls&sni=trojan.burgerip.co.uk&type=tcp#🇫🇷|@DirectVPN|120.42
-trojan://a5inYFE=JGV89 hjxIqgDp1tcWBd6@80.173.230.196:26279?allowInsecure=1&fp=chrome&security=tls&sni=io.ozone.ru&type=tcp#🇳🇴|@oneclickvpnkeys|126.89
-trojan://oeEC2cXUJRlQaToKGL91iNr8A=ZM3@66.135.4.81:25134?allowInsecure=1&fp=chrome&security=tls&sni=api-maps.yandex.ru&type=tcp#🇺🇸|@oneclickvpnkeys|54.85
-trojan://oeEC2cXUJRlQaToKGL91iNr8A=ZM3@209.222.17.236:25134?allowInsecure=1&fp=chrome&security=tls&sni=api-maps.yandex.ru&type=tcp#🇺🇸|@oneclickvpnkeys|51.65
-trojan://POORIARED@172.67.134.185:443?fp=chrome&path=%2FeyJqdW5rIjoiVUl6eXhLZkkwUTJ3ZzkiLCJwcm90b2NvbCI6InRyIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6W119%3Fed%3D2560&security=tls&sni=reDfRee8.REDFree8.ir&type=ws#🚩|@v2ray1_ng|17.79
-trojan://YwuvGJk36B@creativecommons.org:2053?alpn=http%2F1.1&fp=firefox&host=kotlet.arshiacomplus.dpdns.org&path=%2Fyamtekodasayahhh&security=tls&sni=kotlet.arshiacomplus.dpdns.org&type=ws#🚩|@vmess_vless_v2rayng|18.47
-trojan://dQDQCtns4R@162.159.138.232:443?host=fadaei.movieland.top&path=static34528&security=tls&sni=fadaei.movieland.top&type=ws#🚩|@ovpn2|17.55
-trojan://a5inYFE=JGV89 hjxIqgDp1tcWBd6@80.173.230.196:26279?allowInsecure=true&fp=chrome&security=tls&sni=io.ozone.ru#🇳🇴|@ConfigsHUB|126.96
+trojan://telegram-id-privatevpns@3.73.148.183:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trojan.burgerip.co.uk&type=tcp#🇩🇪|@PrivateVPNs|121.86
+trojan://telegram-id-privatevpns@15.188.211.210:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trojan.burgerip.co.uk&type=tcp#🇫🇷|@PrivateVPNs|118.82
+trojan://telegram-id-privatevpns@15.236.119.43:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trojan.burgerip.co.uk&type=tcp#🇫🇷|@PrivateVPNs|117.44
+trojan://telegram-id-directvpn@3.73.148.183:22223?alpn=http%2F1.1&headerType=none&security=tls&sni=trojan.burgerip.co.uk&type=tcp#🇩🇪|@DirectVPN|125.15
+trojan://telegram-id-directvpn@15.188.211.210:22223?alpn=http%2F1.1&headerType=none&security=tls&sni=trojan.burgerip.co.uk&type=tcp#🇫🇷|@DirectVPN|111.86
+trojan://telegram-id-directvpn@15.236.119.43:22223?alpn=http%2F1.1&headerType=none&security=tls&sni=trojan.burgerip.co.uk&type=tcp#🇫🇷|@DirectVPN|117.33
+trojan://Szb=-Zguo53QhmivcJqEAWtpdPX6Y@95.179.183.126:13345?allowInsecure=1&security=tls&sni=infiniteinjera.semanticstrainer.click&type=tcp#🇳🇱|@oneclickvpnkeys|114.21
+trojan://x.8ur1QiCyzlRHXeaB5UwoDfgZ04s@45.32.153.36:20994?allowInsecure=1&security=tls&sni=ads.x5.ru&type=tcp#🇩🇪|@oneclickvpnkeys|114.22
+trojan://Iisy37ABxOJ8Ha_cb5fpXKkm-WSFV@209.250.224.246:24293?allowInsecure=1&security=tls&sni=ads.x5.ru&type=tcp#🇬🇧|@oneclickvpnkeys|104.71
+trojan://POORIARED@172.67.134.185:443?fp=chrome&path=%2FeyJqdW5rIjoiVUl6eXhLZkkwUTJ3ZzkiLCJwcm90b2NvbCI6InRyIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6W119%3Fed%3D2560&security=tls&sni=reDfRee8.REDFree8.ir&type=ws#🚩|@v2ray1_ng|12.48
+trojan://YwuvGJk36B@creativecommons.org:2053?alpn=http%2F1.1&fp=firefox&host=kotlet.arshiacomplus.dpdns.org&path=%2Fyamtekodasayahhh&security=tls&sni=kotlet.arshiacomplus.dpdns.org&type=ws#🚩|@vmess_vless_v2rayng|14.74
+trojan://dQDQCtns4R@162.159.138.232:443?host=fadaei.movieland.top&path=static34528&security=tls&sni=fadaei.movieland.top&type=ws#🚩|@ovpn2|14.19
