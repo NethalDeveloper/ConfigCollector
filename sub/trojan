@@ -1,11 +1,7 @@
-trojan://telegram-id-privatevpns@63.181.28.78:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trojan.burgerip.co.uk&type=tcp#🇩🇪|@PrivateVPNs|162.68
-trojan://telegram-id-privatevpns@63.181.201.60:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trojan.burgerip.co.uk&type=tcp#🇩🇪|@PrivateVPNs|162.52
-trojan://telegram-id-privatevpns@13.37.117.235:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trojan.burgerip.co.uk&type=tcp#🇫🇷|@PrivateVPNs|152.22
-trojan://telegram-id-directvpn@63.181.28.78:22223?alpn=http%2F1.1&headerType=none&security=tls&sni=trojan.burgerip.co.uk&type=tcp#🇩🇪|@DirectVPN|160.75
-trojan://telegram-id-directvpn@63.181.201.60:22223?alpn=http%2F1.1&headerType=none&security=tls&sni=trojan.burgerip.co.uk&type=tcp#🇩🇪|@DirectVPN|159.14
-trojan://telegram-id-directvpn@13.37.117.235:22223?alpn=http%2F1.1&headerType=none&security=tls&sni=trojan.burgerip.co.uk&type=tcp#🇫🇷|@DirectVPN|159.43
-trojan://f52d0a04-94ad-4f9e-9945-4c3d43374e36@www.shopify.com:2096?alpn=h3&fp=edge&host=ts888.yumige.dpdns.org&path=%2Fhttp%3A%2F%2F45.32.19.198%3A30005%2F&security=tls&sni=ts888.yumige.dpdns.org&type=ws#🚩|@oneclickvpnkeys|18.22
-trojan://Z3PEQ5hMBdqF7H41g9LyaxpGD1rn@38.60.168.10:26390?security=tls&sni=m.vk.com&type=tcp#🇫🇷|@oneclickvpnkeys|172.29
-trojan://. QAJot50sDi6mvb@5.188.108.13:11790?security=tls&type=tcp#🇵🇱|@oneclickvpnkeys|180.81
-trojan://YwuvGJk36B@creativecommons.org:2053?alpn=http%2F1.1&fp=firefox&host=kotlet.arshiacomplus.dpdns.org&path=%2Fyamtekodasayahhh&security=tls&sni=kotlet.arshiacomplus.dpdns.org&type=ws#🚩|@vmess_vless_v2rayng|2.43
-trojan://dQDQCtns4R@162.159.138.232:443?host=fadaei.movieland.top&path=static34528&security=tls&sni=fadaei.movieland.top&type=ws#🚩|@ovpn2|1.92
+trojan://telegram-id-privatevpns@63.181.28.78:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trojan.burgerip.co.uk&type=tcp#🇩🇪|@PrivateVPNs|131.24
+trojan://telegram-id-privatevpns@13.37.117.235:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trojan.burgerip.co.uk&type=tcp#🇫🇷|@PrivateVPNs|163.2
+trojan://f52d0a04-94ad-4f9e-9945-4c3d43374e36@www.shopify.com:2096?alpn=h3&fp=edge&host=ts888.yumige.dpdns.org&path=%2Fhttp%3A%2F%2F45.32.19.198%3A30005%2F&security=tls&sni=ts888.yumige.dpdns.org&type=ws#🚩|@oneclickvpnkeys|20.62
+trojan://Z3PEQ5hMBdqF7H41g9LyaxpGD1rn@38.60.168.10:26390?security=tls&sni=m.vk.com&type=tcp#🇫🇷|@oneclickvpnkeys|185.68
+trojan://. QAJot50sDi6mvb@5.188.108.13:11790?security=tls&type=tcp#🇵🇱|@oneclickvpnkeys|153.76
+trojan://YwuvGJk36B@creativecommons.org:2053?alpn=http%2F1.1&fp=firefox&host=kotlet.arshiacomplus.dpdns.org&path=%2Fyamtekodasayahhh&security=tls&sni=kotlet.arshiacomplus.dpdns.org&type=ws#🚩|@vmess_vless_v2rayng|18.87
+trojan://dQDQCtns4R@162.159.138.232:443?host=fadaei.movieland.top&path=static34528&security=tls&sni=fadaei.movieland.top&type=ws#🚩|@ovpn2|18.57
