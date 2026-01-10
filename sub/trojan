@@ -1,8 +1,8 @@
-trojan://telegram-id-privatevpns@18.195.170.99:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trojan.burgerip.co.uk&type=tcp#🇩🇪|@PrivateVPNs|109.33
-trojan://telegram-id-privatevpns@52.47.67.33:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trojan.burgerip.co.uk&type=tcp#🇫🇷|@PrivateVPNs|106.51
-trojan://telegram-id-directvpn@18.195.170.99:22223?alpn=http%2F1.1&headerType=none&security=tls&sni=trojan.burgerip.co.uk&type=tcp#🇩🇪|@DirectVPN|109.98
-trojan://telegram-id-directvpn@52.47.67.33:22223?alpn=http%2F1.1&headerType=none&security=tls&sni=trojan.burgerip.co.uk&type=tcp#🇫🇷|@DirectVPN|103.63
-trojan://61d8077bfb174e171b8283f155a555ad@160.16.72.33:3076?allowInsecure=1&security=tls&sni=www.nintendogames.net&type=tcp#🇯🇵|@oneclickvpnkeys|149.31
-trojan://381f2e86233720eacda26d50e9aa26da@160.16.68.250:3901?allowInsecure=1&fp=chrome&security=tls&sni=www.nintendogames.net&type=tcp#🇯🇵|@oneclickvpnkeys|144.24
-trojan://YwuvGJk36B@creativecommons.org:2053?alpn=http%2F1.1&fp=firefox&host=kotlet.arshiacomplus.dpdns.org&path=%2Fyamtekodasayahhh&security=tls&sni=kotlet.arshiacomplus.dpdns.org&type=ws#🚩|@vmess_vless_v2rayng|2.38
-trojan://dQDQCtns4R@162.159.138.232:443?host=fadaei.movieland.top&path=static34528&security=tls&sni=fadaei.movieland.top&type=ws#🚩|@ovpn2|7.45
+trojan://telegram-id-privatevpns@18.195.170.99:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trojan.burgerip.co.uk&type=tcp#🇩🇪|@PrivateVPNs|149.62
+trojan://telegram-id-privatevpns@52.47.67.33:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trojan.burgerip.co.uk&type=tcp#🇫🇷|@PrivateVPNs|152.34
+trojan://telegram-id-directvpn@18.195.170.99:22223?alpn=http%2F1.1&headerType=none&security=tls&sni=trojan.burgerip.co.uk&type=tcp#🇩🇪|@DirectVPN|153.73
+trojan://telegram-id-directvpn@52.47.67.33:22223?alpn=http%2F1.1&headerType=none&security=tls&sni=trojan.burgerip.co.uk&type=tcp#🇫🇷|@DirectVPN|148.84
+trojan://61d8077bfb174e171b8283f155a555ad@160.16.72.33:3076?allowInsecure=1&security=tls&sni=www.nintendogames.net&type=tcp#🇯🇵|@oneclickvpnkeys|105.54
+trojan://381f2e86233720eacda26d50e9aa26da@160.16.68.250:3901?allowInsecure=1&fp=chrome&security=tls&sni=www.nintendogames.net&type=tcp#🇯🇵|@oneclickvpnkeys|105.49
+trojan://YwuvGJk36B@creativecommons.org:2053?alpn=http%2F1.1&fp=firefox&host=kotlet.arshiacomplus.dpdns.org&path=%2Fyamtekodasayahhh&security=tls&sni=kotlet.arshiacomplus.dpdns.org&type=ws#🚩|@vmess_vless_v2rayng|1.94
+trojan://dQDQCtns4R@162.159.138.232:443?host=fadaei.movieland.top&path=static34528&security=tls&sni=fadaei.movieland.top&type=ws#🚩|@ovpn2|1.85
